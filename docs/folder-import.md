@@ -9,11 +9,11 @@ Folder import is a small program you run on a computer that can see the folder. 
   <figcaption>The setup page on the computer that runs the importer. It stays light.</figcaption>
 </figure>
 
-The program is the public image [visiondoc-smb](https://github.com/kaff-international-limited/visiondoc-smb). It talks only to production.
+The program is the public image [ghcr.io/kaff-international-limited/visiondoc-smb](https://github.com/kaff-international-limited/visiondoc-smb/pkgs/container/visiondoc-smb). It talks only to production. No GitHub login is required to pull it.
 
 ## What you need
 
-- Docker, with Compose.
+- Docker.
 - A company administrator account on production VisionDoc.
 - Your company must already be allowed to pair an importer. If sign-in says the company is not enabled, ask the person who runs VisionDoc for your company.
 - A read-only account on the folder is enough.
@@ -23,12 +23,21 @@ The program is the public image [visiondoc-smb](https://github.com/kaff-internat
 On the computer that should do the importing:
 
 ```sh
-git clone https://github.com/kaff-international-limited/visiondoc-smb.git
-cd visiondoc-smb
-docker compose up -d --build
+docker pull ghcr.io/kaff-international-limited/visiondoc-smb:latest
+
+docker run -d --name visiondoc-smb \
+  --restart unless-stopped \
+  -p 127.0.0.1:8787:8080 \
+  -v visiondoc-smb:/data \
+  --read-only \
+  --tmpfs /tmp:size=64m,mode=1777 \
+  --cap-drop ALL \
+  --security-opt no-new-privileges:true \
+  --memory 512m \
+  ghcr.io/kaff-international-limited/visiondoc-smb:latest
 ```
 
-Then open **http://localhost:8787** on that same computer.
+Then open **http://localhost:8787** on that same computer. If that port is taken, change the first number, for example `-p 127.0.0.1:8788:8080`.
 
 The setup page is light, and it stays light. It is separate from the theme you pick in the VisionDoc console.
 
@@ -78,6 +87,6 @@ Refresh the page to update the list. **Scan again** runs another pass. **Pause**
 
 **Sign out** only hides this setup screen. Import keeps running. The note under the button says **Hides this screen only. Import keeps running.**
 
-`docker compose restart`, or a restart of the computer, keeps the saved folder, the token, and the list of what was already imported. Docker has to start on that computer. Do not delete the Docker volume unless you mean to set the importer up again from the beginning.
+`docker restart visiondoc-smb`, or a restart of the computer, keeps the saved folder, the token, and the list of what was already imported. Docker has to start on that computer. Do not remove the `visiondoc-smb` volume unless you mean to set the importer up again from the beginning.
 
 The setup page listens on this computer only. Do not publish port 8787 on the internet. For remote use, put a secured HTTPS proxy in front of it.
