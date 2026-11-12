@@ -9,15 +9,18 @@
   <figcaption>Home 裡面是 Invoice、Quotation 和 Sales Order。</figcaption>
 </figure>
 
-公司一開始，Home 裡面有三個資料夾。
+## 資料夾結構
 
-| 資料夾 | 例子 |
-|---|---|
-| Quotation | 營業員寄給客戶的報價 PDF |
-| Sales Order | 客戶確認之後的銷售訂單 |
-| Invoice | 那張訂單的發票 |
+**Home** 是主資料夾，放在文件庫裡面。公司一開始，Home 裡面有三個資料夾。每一家公司都是這個結構。
 
-Home 和這三個可以改名。可以在裡面再開資料夾，例如 `Quotation / 2026`。這四個不能刪、不能搬走，也不能在它們旁邊再開一個新的。
+| 資料夾 | 位置 | 規則 | 例子 |
+|---|---|---|---|
+| Home | 在文件庫 | 根資料夾。不能刪，也不能改名 | 打開文件庫就在這裡 |
+| Invoice | 在 Home | 不能刪 | 那張訂單的發票 |
+| Quotation | 在 Home | 不能刪 | 營業員寄給客戶的報價 PDF |
+| Sales Order | 在 Home | 不能刪 | 客戶確認之後的銷售訂單 |
+
+可以在 **Invoice**、**Quotation**、**Sales Order** 裡面開多少個資料夾都可以。例如 `Quotation / 2026` 放今年的報價，`Invoice / 2026` 放今年的發票。不能在 **Home** 裡面再開另一個資料夾，也不能在 **Home** 旁邊開一個新的。
 
 ## 放文件進去
 

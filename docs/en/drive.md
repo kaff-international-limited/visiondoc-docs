@@ -9,15 +9,18 @@
   <figcaption>Home, with Invoice, Quotation, and Sales Order.</figcaption>
 </figure>
 
-A company starts with three folders inside Home.
+## Folder structure
 
-| Folder | Example |
-|---|---|
-| Quotation | The PDF a salesperson sends to a customer |
-| Sales Order | The confirmed order that follows that quotation |
-| Invoice | The bill for that order |
+**Home** is the main folder. It sits in Drive. A company starts with three folders inside it. Every company gets this same layout.
 
-You can rename Home and those three. You can add a folder inside one of them, for example `Quotation / 2026`. You cannot delete or move those four, and you cannot add a new folder beside them.
+| Folder | Where | Rule | Example |
+|---|---|---|---|
+| Home | In Drive | The root. You cannot delete it or rename it | The folder you land in |
+| Invoice | In Home | You cannot delete it | The bill for an order |
+| Quotation | In Home | You cannot delete it | The PDF a salesperson sends to a customer |
+| Sales Order | In Home | You cannot delete it | The confirmed order that follows that quotation |
+
+You can add as many folders as you need inside **Invoice**, **Quotation**, and **Sales Order**. For example, `Quotation / 2026` holds this year's quotations, and `Invoice / 2026` holds the bills. You cannot add another folder directly inside **Home**, and you cannot add a folder next to **Home**.
 
 ## Put a file in
 
