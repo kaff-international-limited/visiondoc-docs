@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: "20"
       - name: Build the book
-        run: npx --yes honkit build docs docs/_site
+        run: npx --yes honkit build docs _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs/_site
