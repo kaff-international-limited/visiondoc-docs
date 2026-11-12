@@ -1,30 +1,26 @@
+<p class="kicker">Production</p>
+
 # How to use VisionDoc
 
-VisionDoc is the document workspace for your company. You open it in a browser, sign in with the account your company gave you, and work with the files and tasks that account is allowed to see.
+<p class="lede">VisionDoc is your company’s document workspace. Sign in, see what needs attention, and keep the files in Drive.</p>
 
-Open production here:
+Open it at **[https://app.visiondoc.ai](https://app.visiondoc.ai)**.
 
-**[https://app.visiondoc.ai](https://app.visiondoc.ai)**
+<figure class="shot">
+  <img src="assets/login.png" alt="VisionDoc sign-in page, with Account, Password, Log In, and Sign in with a passkey">
+  <figcaption>The production sign-in page.</figcaption>
+</figure>
 
-## What you can do
+## Where things live
 
-- Keep company files in **Drive**.
-- Record or upload a meeting.
-- Sign documents that are waiting for you.
-- Ask a guest to drop files into a folder without a console login.
-- Run a folder importer on a computer that can see your network folder, so new files are copied into VisionDoc.
+The sidebar has three groups.
 
-Some companies also have extra modules, such as Tender watch or Receipt Pack. Those appear in the left sidebar only when your company has them turned on.
-
-## The sidebar
-
-After you sign in, the left sidebar is the way around the product.
-
-| Section | What it is for |
+| Group | Items |
 |---|---|
-| Drive | Files and folders |
-| Meetings | Recordings and the notes made from them |
-| Search | Find a file or a page |
-| Workspace | Signing, people, rules, audit, settings, and your account |
+| Overview | Dashboard, Drive, Meetings, Search |
+| Workflow | Workflow |
+| Workspace | Signing, Rules, Audit, People & access, Security, Settings |
 
-The language control and the theme control sit at the bottom of the sidebar. **Log out** is the door icon next to your account.
+The sun icon at the bottom switches light and dark. **EN** switches the language. The door icon signs you out. **Ask** sits at the bottom right of every page.
+
+These pictures were taken on production in November 2026.

@@ -1,13 +1,16 @@
+<p class="kicker">Recordings</p>
+
 # Meetings
 
-Open **Meetings** in the sidebar.
+Open **Meetings** under Overview.
 
-- **New meeting** starts a meeting.
-- **Record now** records from this computer.
-- **Choose a recording** uses an audio file you already have.
+<figure class="shot">
+  <img src="assets/meetings.png" alt="Meetings calendar for November 2026 and New meeting">
+  <figcaption>Meetings. A recording becomes minutes, with the action items marked.</figcaption>
+</figure>
 
-If nothing has been recorded yet, the page says **No recordings yet. Tap New meeting to record, or choose a file you already have.**
+**New meeting** starts a recording from this computer. The browser asks for the microphone the first time.
 
-The list can be filtered by day. A day with nothing on it says **No meetings that day**.
+The calendar is the month you are looking at. Pick a day to see what was recorded then. If that company has no recordings yet, the page says **No recordings yet.**
 
-Open a meeting in the list to read what VisionDoc made from that recording. Recording uses the microphone on the computer you are using, so the browser will ask for permission the first time.
+Open a meeting in the list to read the minutes VisionDoc made from it.

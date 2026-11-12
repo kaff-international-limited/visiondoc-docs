@@ -5,6 +5,7 @@
 ## The console
 
 * [Sign in](sign-in.md)
+* [Dashboard](dashboard.md)
 * [Drive](drive.md)
 * [Meetings](meetings.md)
 * [Signing](signing.md)

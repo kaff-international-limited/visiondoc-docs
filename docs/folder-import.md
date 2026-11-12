@@ -1,6 +1,13 @@
+<p class="kicker">This computer</p>
+
 # Folder import
 
 Folder import is a small program you run on a computer that can see the folder. It signs in to production VisionDoc at [https://app.visiondoc.ai](https://app.visiondoc.ai), reads the folder, and uploads new documents. It does not change or delete the files in the source folder.
+
+<figure class="shot">
+  <img src="assets/importer.png" alt="VisionDoc folder import sign-in card">
+  <figcaption>The setup page on the computer that runs the importer. It stays light.</figcaption>
+</figure>
 
 The program is the public image [visiondoc-smb](https://github.com/kaff-international-limited/visiondoc-smb). It talks only to production.
 
