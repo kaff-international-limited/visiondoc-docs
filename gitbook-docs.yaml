@@ -1,0 +1,10 @@
+site:
+  title: VisionDoc
+  description: How to use VisionDoc
+  structure:
+    - type: space
+      key: how-to
+      title: How to use VisionDoc
+      path: how-to
+      content:
+        directory: ./docs
