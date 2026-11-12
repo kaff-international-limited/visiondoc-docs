@@ -1,0 +1,9 @@
+{
+  "title": "VisionDoc",
+  "description": "VisionDoc 使用說明",
+  "language": "zh-Hant",
+  "plugins": ["-sharing", "-fontsettings"],
+  "styles": {
+    "website": "styles/website.css"
+  }
+}

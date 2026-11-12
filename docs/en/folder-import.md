@@ -6,14 +6,14 @@ Folder import is a small program you run on a computer that can see the folder. 
 
 <figure class="shot">
   <img src="assets/importer.png" alt="VisionDoc folder import sign-in card">
-  <figcaption>The setup page on the computer that runs the importer. It stays light.</figcaption>
+  <figcaption>The setup page on the computer that runs the importer. It stays in English, and it stays light.</figcaption>
 </figure>
 
 The program is the public image [ghcr.io/kaff-international-limited/visiondoc-smb](https://github.com/kaff-international-limited/visiondoc-smb/pkgs/container/visiondoc-smb). It talks only to production. No GitHub login is required to pull it.
 
 ## What you need
 
-- Docker.
+- Docker. Compose is not required.
 - A company administrator account on production VisionDoc.
 - Your company must already be allowed to pair an importer. If sign-in says the company is not enabled, ask the person who runs VisionDoc for your company.
 - A read-only account on the folder is enough.
@@ -39,14 +39,18 @@ docker run -d --name visiondoc-smb \
 
 Then open **http://localhost:8787** on that same computer. If that port is taken, change the first number, for example `-p 127.0.0.1:8788:8080`.
 
-The setup page is light, and it stays light. It is separate from the theme you pick in the VisionDoc console.
+The setup page is light, and it stays light. It is separate from the theme you pick in the VisionDoc console. The labels on this page stay in English.
 
 ## Connect the company
 
 1. Enter the administrator email and password.
 2. Click **Sign in**.
 
+The card says **Use the administrator account for your company. The password is checked once and is not saved on this computer.**
+
 The password is checked once and is not saved on the computer. VisionDoc returns a token that the importer keeps. Browser sign-in on this page lasts up to 30 days.
+
+Example: the company administrator signs in on the office computer that can see `\\files\scan\inbox`. The password is not written into a file on that computer. The next time someone opens **http://localhost:8787** on it, the company is already connected, until the 30 days are up or someone signs out.
 
 ## Choose the folder
 
@@ -63,6 +67,8 @@ The password is checked once and is not saved on the computer. VisionDoc returns
 Plain FTP and plain HTTP are refused. The page tells you the address shape for the protocol you picked.
 
 Files larger than 64 MB stay in the folder and are not uploaded. Every subfolder is included.
+
+Example: the scanner drops PDFs into `\\files\scan\inbox`, and `inbox\2026` is a subfolder. Choose **SMB**, enter `\\files\scan\inbox`, use a read-only account, then **Test connection and save** and **Start import**. A 2 MB invoice is uploaded. A 90 MB scan stays in the folder. A file already in `inbox\2026` is included, because every subfolder is.
 
 ## What the status means
 
@@ -82,6 +88,8 @@ The three steps at the top are **Company**, **Folder**, and **Import**.
 Identical content is uploaded once, even if the file is renamed. A changed file becomes a new document. Removing a file from the folder does not delete the document in VisionDoc.
 
 Refresh the page to update the list. **Scan again** runs another pass. **Pause** stops the scan.
+
+Example: `invoice-104.pdf` imports, and someone renames it to `invoice-104-signed.pdf` without changing the pages. The next scan marks it **Unchanged**, not a second document. If they add a signature page, the next scan marks the new content as a new document. Deleting the PDF from the share leaves the VisionDoc document where it is.
 
 ## Sign out and restart
 

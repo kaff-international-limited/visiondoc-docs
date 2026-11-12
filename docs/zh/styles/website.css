@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+
+.book,
+.book-summary,
+.book-body,
+.markdown-section {
+  font-family: "Plus Jakarta Sans", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  color: #10201c;
+}
+
+.book-summary {
+  background: #f4faf8;
+  border-right: 1px solid #d5e8e2;
+}
+
+.book-summary ul.summary {
+  padding: 12px 10px 28px;
+}
+
+.book-summary ul.summary li a,
+.book-summary ul.summary li span {
+  color: #10201c;
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-weight: 600;
+}
+
+.book-summary ul.summary li.header {
+  color: #0b5f50;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 16px 12px 6px;
+}
+
+.book-summary ul.summary li.divider,
+.book-summary ul.summary li:has(.gitbook-link) {
+  display: none;
+}
+
+.book-summary ul.summary li.active > a,
+.book-summary ul.summary li a:hover {
+  color: #0b5f50;
+  background: rgba(14, 122, 103, 0.12);
+  text-decoration: none;
+}
+
+.book-summary ul.summary li li a {
+  font-weight: 500;
+  color: #4a5f59;
+}
+
+.book-summary #book-search-input,
+.book-summary .book-search input {
+  background: #ffffff;
+  border: 1px solid #d5e8e2;
+  border-radius: 10px;
+  color: #10201c;
+}
+
+.book-summary .book-header,
+.book-body .book-header {
+  background: #ffffff;
+  border-bottom: 2px solid #0b5f50;
+}
+
+.book-body,
+.book-body .body-inner {
+  background: #e7f3ef;
+}
+
+.book-body .page-wrapper {
+  background: transparent;
+}
+
+.book-body .page-inner {
+  max-width: 980px;
+  padding: 28px 20px 48px;
+}
+
+.markdown-section {
+  background: #ffffff;
+  border: 1px solid #d5e8e2;
+  border-top: 3px solid #0b5f50;
+  border-radius: 16px;
+  padding: 28px 32px 36px;
+  box-shadow: 0 10px 28px rgba(11, 95, 80, 0.07);
+  overflow: hidden;
+}
+
+.markdown-section h1 {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  margin-top: 0;
+  color: #10201c;
+}
+
+.markdown-section h2 {
+  margin-top: 28px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: #10201c;
+}
+
+.markdown-section a {
+  color: #0b5f50;
+  font-weight: 600;
+}
+
+.markdown-section .kicker {
+  margin: 0 0 8px;
+  color: #0b5f50;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.markdown-section .lede {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #4a5f59;
+}
+
+.markdown-section .shot {
+  margin: 20px 0 8px;
+}
+
+.markdown-section .shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #d5e8e2;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(11, 95, 80, 0.08);
+}
+
+.markdown-section .shot figcaption {
+  margin-top: 10px;
+  color: #4a5f59;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.markdown-section table {
+  display: block;
+  overflow: auto;
+  border: 1px solid #d5e8e2;
+  border-radius: 14px;
+}
+
+.markdown-section table th {
+  background: #e7f3ef;
+  color: #0b5f50;
+}
+
+.markdown-section table tr:nth-child(2n) {
+  background: #f4faf8;
+}
+
+.markdown-section code {
+  background: rgba(14, 122, 103, 0.1);
+  color: #0b5f50;
+  border-radius: 8px;
+  padding: 2px 6px;
+}
+
+.markdown-section pre {
+  background: #10201c;
+  border-radius: 14px;
+  color: #e9f2ef;
+}
+
+.markdown-section pre code {
+  background: transparent;
+  color: inherit;
+}
+
+.markdown-section ol > li {
+  margin: 8px 0;
+}
+
+.book .navigation {
+  color: #0b5f50;
+}

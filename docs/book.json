@@ -1,9 +1,5 @@
 {
   "title": "VisionDoc",
   "description": "How to use VisionDoc",
-  "language": "en",
-  "plugins": ["-sharing", "-fontsettings"],
-  "styles": {
-    "website": "styles/website.css"
-  }
+  "plugins": ["-sharing", "-fontsettings"]
 }
