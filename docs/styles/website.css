@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Plus Jakarta Sans", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  color: #10201c;
+  background-color: #d7efe6;
+  background-image:
+    radial-gradient(90% 70% at -8% 110%, rgba(11, 95, 80, 0.5), transparent 56%),
+    radial-gradient(68% 58% at 108% -8%, rgba(34, 195, 163, 0.5), transparent 52%),
+    radial-gradient(46% 36% at 100% 108%, rgba(14, 122, 103, 0.32), transparent 48%);
+}
+
+.book-langs-index {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-height: 100%;
+  padding: 32px 16px;
+}
+
+.book-langs-index .inner {
+  width: min(440px, 100%);
+  margin: 0;
+  padding: 28px 28px 16px;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow:
+    0 24px 60px rgba(11, 95, 80, 0.16),
+    0 0 0 1px rgba(11, 95, 80, 0.06);
+}
+
+.book-langs-index .inner h3 {
+  margin: 0;
+  color: #10201c;
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.book-langs-index .inner h3::before {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin-right: 10px;
+  border-radius: 999px;
+  background: #0b5f50;
+  vertical-align: -2px;
+}
+
+.book-langs-index .languages {
+  margin: 18px 0 0;
+  padding: 8px 0 0;
+  border-top: 1px solid #e6eeeb;
+  list-style: none;
+}
+
+.book-langs-index .languages li {
+  display: block;
+  float: none;
+  width: auto;
+  max-width: none;
+  padding: 0;
+}
+
+.book-langs-index .languages a {
+  display: block;
+  padding: 12px 2px;
+  color: #0b5f50;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.book-langs-index .languages a:hover {
+  color: #08483c;
+}

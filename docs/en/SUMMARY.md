@@ -1,5 +1,7 @@
 # Summary
 
+## Getting started
+
 * [How to use VisionDoc](README.md)
 
 ## The console

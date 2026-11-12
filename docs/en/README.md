@@ -4,6 +4,25 @@
 
 <p class="lede">VisionDoc is your company’s document workspace. Sign in, see what needs attention, and keep the files in Drive.</p>
 
+<div class="cards">
+  <a class="card card-sign" href="sign-in.html">
+    <strong>Sign in</strong>
+    <span>Open the console with the account your company gave you.</span>
+  </a>
+  <a class="card card-drive" href="drive.html">
+    <strong>Drive</strong>
+    <span>Home holds Invoice, Quotation, and Sales Order.</span>
+  </a>
+  <a class="card card-flow" href="workflow.html">
+    <strong>Workflow</strong>
+    <span>Open the menu for Start workflow and Inbox &amp; outbox.</span>
+  </a>
+  <a class="card card-import" href="folder-import.html">
+    <strong>Folder import</strong>
+    <span>Bring files in from a folder on your network.</span>
+  </a>
+</div>
+
 Open it at **[https://app.visiondoc.ai](https://app.visiondoc.ai)**. This book has an English copy and a Traditional Chinese copy. In the console, **EN** at the bottom left switches the language the same way.
 
 <figure class="shot">

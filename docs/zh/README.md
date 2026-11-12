@@ -4,6 +4,25 @@
 
 <p class="lede">VisionDoc 是公司的文件工作區。登入之後，先看有甚麼要處理，文件就放在文件庫。</p>
 
+<div class="cards">
+  <a class="card card-sign" href="sign-in.html">
+    <strong>登入</strong>
+    <span>用公司給的帳號打開主控台。</span>
+  </a>
+  <a class="card card-drive" href="drive.html">
+    <strong>文件庫</strong>
+    <span>Home 裡面是 Invoice、Quotation 和 Sales Order。</span>
+  </a>
+  <a class="card card-flow" href="workflow.html">
+    <strong>Workflow</strong>
+    <span>打開選單，裡面有 Start workflow 和 Inbox &amp; outbox。</span>
+  </a>
+  <a class="card card-import" href="folder-import.html">
+    <strong>資料夾匯入</strong>
+    <span>從網絡上的資料夾把文件匯入。</span>
+  </a>
+</div>
+
 打開 **[https://app.visiondoc.ai](https://app.visiondoc.ai)**。這本說明有英文和繁體中文。主控台左下角的 **中** 和 **EN** 用來轉語言。
 
 <figure class="shot">
