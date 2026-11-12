@@ -7,7 +7,7 @@
 * [Sign in](sign-in.md)
 * [Dashboard](dashboard.md)
 * [Drive](drive.md)
-* [Meetings](meetings.md)
+* [Workflow](workflow.md)
 * [Signing](signing.md)
 * [Workspace](workspace.md)
 

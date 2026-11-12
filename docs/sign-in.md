@@ -3,7 +3,7 @@
 # Sign in
 
 <figure class="shot">
-  <img src="assets/login.png" alt="Sign in card on a mint and lilac background">
+  <img src="assets/login.png" alt="VisionDoc sign-in page">
   <figcaption>Account, password, Log In, or a passkey.</figcaption>
 </figure>
 

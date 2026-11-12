@@ -5,9 +5,11 @@
 **Drive** is the library. The page you land in is **Home**.
 
 <figure class="shot">
-  <img src="assets/drive.png" alt="Drive home with folders and Upload files">
-  <figcaption>Drive on production. Folders on the right are that company’s own folders.</figcaption>
+  <img src="assets/drive.png" alt="Drive home with the company folders and Upload files">
+  <figcaption>Drive, open on Home. The folders shown belong to that company.</figcaption>
 </figure>
+
+A company starts with **Quotation**, **Sales Order**, and **Invoice** inside Home. You can rename Home and those three. You can add a folder inside Quotation, Sales Order, or Invoice. You cannot delete or move those four, and you cannot add a new folder beside them.
 
 ## Put files in
 

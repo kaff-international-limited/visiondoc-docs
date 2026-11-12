@@ -17,8 +17,8 @@ The sidebar has three groups.
 
 | Group | Items |
 |---|---|
-| Overview | Dashboard, Drive, Meetings, Search |
-| Workflow | Workflow |
+| Overview | Dashboard, Drive, Search |
+| Workflow | Start workflow, Inbox & outbox, Application folder, Purchase Requisition |
 | Workspace | Signing, Rules, Audit, People & access, Security, Settings |
 
 The sun icon at the bottom switches light and dark. **EN** switches the language. The door icon signs you out. **Ask** sits at the bottom right of every page.

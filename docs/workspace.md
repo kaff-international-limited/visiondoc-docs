@@ -13,6 +13,8 @@
 | Security | Your own account |
 | Settings | The company workspace |
 
+**Rules** is there when the company files incoming documents with rules.
+
 **Audit** reads **Every read, move, correction and download, with who did it**. Filter with **All events**, **Downloads**, **Corrections**, or **Access denied**. **Export CSV** downloads that list. **Filter** narrows it further.
 
 ## Along the bottom
