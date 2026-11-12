@@ -4,4 +4,5 @@ This repository is the public how-to for VisionDoc. The English pages are in `do
 
 The published site is built from those pages with [HonKit](https://github.com/honkit/honkit), which renders a GitBook book.
 
+How-to: https://docs.visiondoc.ai
 Production console: https://app.visiondoc.ai
