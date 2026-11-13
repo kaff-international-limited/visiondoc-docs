@@ -2,7 +2,15 @@
 
 # 清單和格狀
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/06-list-and-grid.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/06-list-and-grid.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/06-list-and-grid.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="文件庫 Home 的卡片看法，類型旁邊是清單和格狀按鈕">
+  <figcaption>文件庫打開時是卡片。類型旁邊的按鈕用來換清單和格狀。</figcaption>
+</figure>
 
 文件庫打開時是卡片。資料夾卡片寫 **資料夾**。PDF 卡片寫檔案類型。英文畫面的資料夾卡片寫 **Folder**。
 

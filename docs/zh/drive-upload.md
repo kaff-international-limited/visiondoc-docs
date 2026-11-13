@@ -2,7 +2,15 @@
 
 # 上傳文件
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/12-upload-files.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/12-upload-files.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/12-upload-files.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="文件庫 Home，右邊是綠色的上傳文件">
+  <figcaption>上傳文件是上面一排右邊的綠色按鈕。</figcaption>
+</figure>
 
 **上傳文件** 是上面一排右邊的綠色按鈕。它把你選的檔案放進你打開的資料夾。可以一次選多於一個。英文畫面寫 **Upload files**。
 

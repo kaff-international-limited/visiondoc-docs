@@ -355,11 +355,26 @@ body {
   box-shadow: 0 8px 20px rgba(11, 95, 80, 0.08);
 }
 
-.markdown-section .shot figcaption {
+.markdown-section .shot figcaption,
+.markdown-section .watch figcaption {
   margin-top: 10px;
   color: #4a5f59;
   font-size: 13px;
   font-weight: 600;
+}
+
+.markdown-section .watch {
+  margin: 8px 0 18px;
+}
+
+.markdown-section .watch video {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #e6eeeb;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(11, 95, 80, 0.08);
+  background: #10201c;
 }
 
 .markdown-section table {

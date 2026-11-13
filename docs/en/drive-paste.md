@@ -2,7 +2,15 @@
 
 # Paste
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/08-paste.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/08-paste.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/08-paste.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="Drive home, with Paste in the top row and in the selection row">
+  <figcaption>Paste is in the top row, and in the row that appears when a file is selected.</figcaption>
+</figure>
 
 **Paste** puts a copied or cut item into the folder you have open. The same button is in the top row and in the row that appears when something is selected. It stays grey until something is on the clipboard.
 

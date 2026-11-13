@@ -2,7 +2,10 @@
 
 # 規則
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/20-rules.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/20-rules.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/20-rules.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 **規則** 在工作區裡，排在待簽署和稽核記錄中間。每份文件到達時，規則按優先次序執行。標題下面寫：識別規則會蓋上格式化標籤（第一條符合），不會移動檔案。
 

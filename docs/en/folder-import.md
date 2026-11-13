@@ -2,7 +2,10 @@
 
 # Folder import
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/26-folder-import.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/26-folder-import.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/26-folder-import.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 Folder import is a small program you run on a computer that can see the folder. It signs in to production VisionDoc at [https://app.visiondoc.ai](https://app.visiondoc.ai), reads the folder, and uploads new documents. It does not change or delete the files in the source folder.
 

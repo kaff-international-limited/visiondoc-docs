@@ -2,7 +2,10 @@
 
 # E-form designer
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/17-eform-designer.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/17-eform-designer.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/17-eform-designer.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 **E-form designer** 用來做一張表單，然後分享出去。側欄上的名稱仍然是英文。頁面標題是 **表單設計器**。下面寫 **以即時預覽建立無程式碼表單**。
 

@@ -2,7 +2,15 @@
 
 # 上傳資料夾
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/11-upload-folder.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/11-upload-folder.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/11-upload-folder.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="文件庫 Home，上面一排有上傳資料夾">
+  <figcaption>上傳資料夾把整個資料夾放進你打開的資料夾。</figcaption>
+</figure>
 
 **上傳資料夾** 把電腦上的整個資料夾上傳到你打開的資料夾。那個資料夾保留自己的名字，裡面的檔案一起上來。英文畫面寫 **Upload folder**。
 

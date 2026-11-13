@@ -2,7 +2,10 @@
 
 # Workflow designer
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/18-workflow-designer.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/18-workflow-designer.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/18-workflow-designer.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 **Workflow designer** is where a company administrator defines a workflow. The page title is **Approval workflows**. The line under it says **Configurable multi-step, role-routed approval definitions**.
 

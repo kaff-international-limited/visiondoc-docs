@@ -2,7 +2,10 @@
 
 # Search
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/13-search.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/13-search.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/13-search.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 **Search** in the sidebar opens a window over the page. It searches the workspace, not just the folder you have open.
 

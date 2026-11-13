@@ -2,7 +2,10 @@
 
 # Dashboard
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/03-dashboard.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/03-dashboard.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/03-dashboard.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 The first page after sign-in is the dashboard. The line under the title says **Workspace activity and usage at a glance**.
 

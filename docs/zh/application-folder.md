@@ -2,7 +2,10 @@
 
 # Application folder
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/16-application-folder.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/16-application-folder.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/16-application-folder.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 **Application folder** 是每一份申請和它的決定。標題下面寫 **Your submitted applications and completed decisions, across workflows.** 側欄上的名稱仍然是英文。
 

@@ -2,7 +2,10 @@
 
 # 文件庫
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/04-drive.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/04-drive.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/04-drive.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 **文件庫** 是文件放的地方。打開就在 **Home**。
 

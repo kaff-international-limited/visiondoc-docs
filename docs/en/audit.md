@@ -2,7 +2,10 @@
 
 # Audit
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/21-audit.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/21-audit.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/21-audit.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 **Audit** reads **Every read, move, correction and download, with who did it**.
 

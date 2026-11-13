@@ -2,7 +2,10 @@
 
 # Start workflow
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/14-start-workflow.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/14-start-workflow.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/14-start-workflow.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 **Start workflow** 是 Workflow 選單的第一項。它打開 **Workflows**。標題下面寫 **Choose a workflow to get started.**，即是選一個流程來開始。這頁的產品名稱在繁體中文介面仍然是英文。
 

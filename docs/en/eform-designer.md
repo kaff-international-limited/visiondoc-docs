@@ -2,7 +2,10 @@
 
 # E-form designer
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/17-eform-designer.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/17-eform-designer.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/17-eform-designer.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 **E-form designer** builds a form without code, then shares it. The page title is **Form designer**. The line under it says **Build no-code forms with a live preview**.
 

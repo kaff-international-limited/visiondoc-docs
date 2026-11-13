@@ -2,7 +2,15 @@
 
 # 記錄保留
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/25-retention.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/25-retention.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/25-retention.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/settings.png" alt="設定頁，包括保留期與法律封存">
+  <figcaption>設定裡的保留期與法律封存，打開記錄保留。</figcaption>
+</figure>
 
 記錄保留是一份檔案留多久。你可以在文件庫為一個檔案或一個資料夾設定。公司管理員也在設定裡定整家公司的規則。
 

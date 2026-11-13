@@ -2,7 +2,10 @@
 
 # Rules
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/20-rules.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/20-rules.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/20-rules.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 **Rules** sits under Workspace, between Signing and Audit. A rule runs on every document as it arrives, in priority order. The line under the title says identifier rules stamp a formatted tag on the first match, and they do not move the file.
 

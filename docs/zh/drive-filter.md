@@ -2,7 +2,15 @@
 
 # 篩選
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/05-filter.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/05-filter.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/05-filter.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="文件庫 Home，資料夾名稱右邊是篩選">
+  <figcaption>Home 已打開。資料夾名稱右邊的放大鏡是篩選。</figcaption>
+</figure>
 
 放大鏡在資料夾名稱的右邊。它是 **篩選**。英文畫面寫 **Filter**。
 

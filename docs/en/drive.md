@@ -2,7 +2,10 @@
 
 # Drive
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/04-drive.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/04-drive.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/04-drive.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 **Drive** is the library. You land in **Home**.
 

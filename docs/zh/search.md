@@ -2,7 +2,10 @@
 
 # 搜尋
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/13-search.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/13-search.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/13-search.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 側欄的 **搜尋** 會在頁面上面打開一個窗口。它搜整個工作區，不是只搜你打開的那個資料夾。
 

@@ -2,7 +2,15 @@
 
 # Reports
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/09-reports.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/09-reports.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/09-reports.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="Drive home, with Reports in the top row">
+  <figcaption>Reports is in the top row. It opens a panel for this folder.</figcaption>
+</figure>
 
 **Reports** opens a panel for the folder you have open. The title is **Reports**.
 

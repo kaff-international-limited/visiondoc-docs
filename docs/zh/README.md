@@ -2,7 +2,10 @@
 
 # 點用 VisionDoc
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/01-how-to-use-visiondoc.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/01-how-to-use-visiondoc.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/01-how-to-use-visiondoc.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 <p class="lede">VisionDoc 是公司的文件工作區。登入之後，先看有甚麼要處理，文件就放在文件庫。</p>
 

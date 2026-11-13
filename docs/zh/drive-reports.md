@@ -2,7 +2,15 @@
 
 # 報表
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/09-reports.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/09-reports.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/09-reports.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="文件庫 Home，上面一排有報表">
+  <figcaption>報表在上面一排。它打開這個資料夾的面板。</figcaption>
+</figure>
 
 **報表** 打開你正在看的資料夾的面板。標題是 **報表**。英文畫面寫 **Reports**。
 

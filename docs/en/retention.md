@@ -2,7 +2,15 @@
 
 # Retention
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/25-retention.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/25-retention.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/25-retention.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/settings.png" alt="Settings page, including Retention and Legal Hold">
+  <figcaption>Retention & Legal Hold is on Settings. It opens Records retention & legal hold.</figcaption>
+</figure>
 
 Retention is how long a file stays. You set it on one file or one folder in Drive. Company administrators also set the rules for the whole company in Settings.
 

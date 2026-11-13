@@ -2,7 +2,10 @@
 
 # 人員與權限
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/22-people-and-access.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/22-people-and-access.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/22-people-and-access.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 **人員與權限** 是誰可以登入、角色允許甚麼、人在哪一組。下面這張圖的頁面文字是英文。側欄的名稱是 **人員與權限**。
 

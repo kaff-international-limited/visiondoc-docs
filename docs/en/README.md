@@ -2,7 +2,10 @@
 
 # How to use VisionDoc
 
-<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/01-how-to-use-visiondoc.mp4">Watch the video</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/01-how-to-use-visiondoc.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/01-how-to-use-visiondoc.mp4"></video>
+  <figcaption>Watch the video</figcaption>
+</figure>
 
 <p class="lede">VisionDoc is your company’s document workspace. Sign in, see what needs attention, and keep the files in Drive.</p>
 

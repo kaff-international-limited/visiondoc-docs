@@ -2,7 +2,15 @@
 
 # 交件連結
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/10-drop-off-link.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/10-drop-off-link.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/10-drop-off-link.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="文件庫 Home，上面一排有交件連結">
+  <figcaption>交件連結在上面一排。</figcaption>
+</figure>
 
 **交件連結** 做一條連到你打開的資料夾的連結。客人用這條連結上傳，不用 VisionDoc 帳戶。可以在文件庫加檔案的人看得到這個按鈕。英文畫面寫 **Drop-off link**。
 

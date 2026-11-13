@@ -2,7 +2,15 @@
 
 # 貼上
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/08-paste.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/08-paste.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/08-paste.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
+
+<figure class="shot">
+  <img src="assets/drive.png" alt="文件庫 Home，上面一排和選中之後那一排都有貼上">
+  <figcaption>貼上在上面一排，選中檔案之後那一排也有。</figcaption>
+</figure>
 
 **貼上** 把複製或剪下的項目放進你打開的資料夾。上面一排有這個按鈕，選中東西之後那一排也有。剪貼簿是空的時候，按鈕是灰的。英文畫面寫 **Paste**。
 

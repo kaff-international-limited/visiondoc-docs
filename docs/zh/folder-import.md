@@ -2,7 +2,10 @@
 
 # 資料夾匯入
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/26-folder-import.mp4">看短片</a></p>
+<figure class="watch">
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/26-folder-import.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/26-folder-import.mp4"></video>
+  <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
+</figure>
 
 資料夾匯入是一個小程式，放在看得到那個資料夾的電腦上。它登入正式環境 [https://app.visiondoc.ai](https://app.visiondoc.ai)，讀取資料夾，把新文件上傳。它不會改、也不會刪來源資料夾裡的檔案。
 
