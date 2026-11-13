@@ -49,10 +49,13 @@ body {
   align-items: center;
   box-sizing: border-box;
   height: 56px;
-  padding: 0 16px 0 48px;
+  padding: 0 16px 0 58px;
   border-bottom: 1px solid #e6eeeb;
-  background-image: radial-gradient(circle at 27px 50%, #0b5f50 0 11px, transparent 12px);
+  /* Teal VD. The white monogram is the same drawing and disappears on this white bar. */
+  background-image: url("mark.png");
   background-repeat: no-repeat;
+  background-position: 10px 50%;
+  background-size: 40px 40px;
   color: #10201c;
   font-size: 15px;
   font-weight: 800;

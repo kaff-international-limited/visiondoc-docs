@@ -44,12 +44,11 @@ body {
 .book-langs-index .inner h3::before {
   content: "";
   display: inline-block;
-  width: 18px;
-  height: 18px;
+  width: 28px;
+  height: 28px;
   margin-right: 10px;
-  border-radius: 999px;
-  background: #0b5f50;
-  vertical-align: -2px;
+  background: url("mark.png") center / contain no-repeat;
+  vertical-align: -6px;
 }
 
 .book-langs-index .languages {
