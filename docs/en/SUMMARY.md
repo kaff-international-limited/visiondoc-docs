@@ -9,6 +9,14 @@
 
 * [Dashboard](dashboard.md)
 * [Drive](drive.md)
+    * [Filter](drive-filter.md)
+    * [List and grid](drive-view.md)
+    * [Type](drive-sort.md)
+    * [Paste](drive-paste.md)
+    * [Reports](drive-reports.md)
+    * [Drop-off link](drive-dropoff.md)
+    * [Upload folder](drive-upload-folder.md)
+    * [Upload files](drive-upload.md)
 * [Search](search.md)
 
 ## Workflow
@@ -27,6 +35,10 @@
 * [People & access](people.md)
 * [Security](security.md)
 * [Settings](settings.md)
+
+## Retention
+
+* [Retention](retention.md)
 
 ## Files from a network folder
 

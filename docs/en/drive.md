@@ -15,22 +15,18 @@ In this picture the list shows **esign_signed**, then **Home**, then **inbox**. 
 
 ## The top row
 
-These buttons sit on the right of the folder name. On Home the name is **Home**. While Home is open, this row has no **Add folder** button.
+These buttons sit on the right of the folder name. On Home the name is **Home**. While Home is open, this row has no **Add folder** button. Each button has its own page.
 
-| Button | What it does |
+| Button | Page |
 |---|---|
-| Magnifying glass | **Filter**. It opens a box that says **Filter by name…**. **Close** clears it. Typing here filters the same folder as **Search files…** on the left |
-| List icon | The page is showing cards. Click it to switch to **List**. Click again for **Grid** |
-| Type | Sort by type. The arrow points up for **Type A→Z** and down for **Type Z→A** |
-| Paste | Puts a copied or cut item into the folder you are in. It stays grey until something is on the clipboard |
-| Reports | Opens **Reports** for this folder. Name the report, pick **Columns**, and click **Save report**. **Run** fills a table from the stored fields. Then **Excel**, **CSV**, or **Email** |
-| Drop-off link | A link a guest can use to upload into this folder, without a VisionDoc account. People who can add files see this button |
-| Upload folder | Sends a whole folder from your computer into the folder you have open |
-| Upload files | The green button. Sends the files you pick into the folder you have open |
-
-You can also drop files onto the page. They go into the folder you have open.
-
-A filing rule can place a file in a different folder from the one you had open. The page tells you where it landed.
+| Magnifying glass | [Filter](drive-filter.md) |
+| List icon | [List and grid](drive-view.md) |
+| Type | [Type](drive-sort.md) |
+| Paste | [Paste](drive-paste.md) |
+| Reports | [Reports](drive-reports.md) |
+| Drop-off link | [Drop-off link](drive-dropoff.md) |
+| Upload folder | [Upload folder](drive-upload-folder.md) |
+| Upload files | [Upload files](drive-upload.md) |
 
 ## When a file is selected
 
@@ -68,10 +64,4 @@ You can add as many folders as you need inside **Invoice**, **Quotation**, and *
 
 You cannot add a folder directly inside **Home**, and you cannot add a folder next to **Home**. The page says **This folder level is fixed. Add a subfolder under Invoice, Quotation, Sales Order.**
 
-## A link for a guest
-
-**Drop-off link** opens a box titled **Drop-off link**, named for the folder you have open. The line under the title says guests upload into this folder without a console login.
-
-**Require email one-time passcode** emails a code, and the guest enters it before the link will take a file. **Expires in hours** is how long the link lasts. There is also **Then request e-sign**, with an optional title. **Create link**, then **Copy URL**. **Revoke** turns that link off. Files already uploaded stay in Drive. The box lists links for this folder that are still on. If there are none, it says **No drop-off links for this folder yet**.
-
-Example: open **Quotation**, click **Drop-off link**, set the hours, and send the URL. The customer uploads a signed quotation and does not need an account. A PDF already in Home moves the same way: select it, click **Move to…**, open **Quotation**, and click **Paste**.
+How long a file stays is a separate section, [Retention](retention.md).

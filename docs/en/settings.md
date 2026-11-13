@@ -17,7 +17,7 @@
 | PII | What is found and who can see it |
 | Watermark | Applied on the way out |
 | Role Masking | What each role sees |
-| Retention & Legal Hold | How long files stay |
+| Retention & Legal Hold | How long files stay. The page is [Retention](retention.md) |
 | Extraction schemas | How fields are read off a document |
 | AI Model | The model that reads documents |
 
