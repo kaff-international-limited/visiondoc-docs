@@ -1,0 +1,16 @@
+<p class="kicker">Workspace</p>
+
+# Rules
+
+**Rules** sits under Workspace, between Signing and Audit. A rule runs on every document as it arrives, in priority order. The line under the title says identifier rules stamp a formatted tag on the first match, and they do not move the file.
+
+<figure class="shot">
+  <img src="assets/rules.png" alt="Rules page with no rules yet">
+  <figcaption>No rules yet. Enabled 0, Paused 0.</figcaption>
+</figure>
+
+The empty card says **No rules yet**. The two lines under that are **When a document arrives** and **Then nothing happens until you add a rule**. **Enabled** is 0. **Paused** is 0.
+
+**New rule** adds one. **Run over existing** applies the rules to documents already in Drive.
+
+Example: invoices should carry a tag such as `INV-2026` as soon as they land, without anyone moving the file. Add that as a rule with **New rule**. Until you do, a new file arrives and nothing happens, which is what the empty card says. After the rule is on, **Enabled** becomes 1. **Run over existing** stamps the invoices already in the library. Pause a rule when you want it to stop without deleting it, and **Paused** goes up by one.

@@ -13,9 +13,9 @@
     <strong>Drive</strong>
     <span>Home holds Invoice, Quotation, and Sales Order.</span>
   </a>
-  <a class="card card-flow" href="workflow.html">
+  <a class="card card-flow" href="start-workflow.html">
     <strong>Workflow</strong>
-    <span>Open the menu for Start workflow and Inbox &amp; outbox.</span>
+    <span>Start a run, check the inbox, or design a form and a workflow.</span>
   </a>
   <a class="card card-import" href="folder-import.html">
     <strong>Folder import</strong>
@@ -37,10 +37,17 @@ The sidebar has three groups.
 | Group | Items |
 |---|---|
 | Overview | Dashboard, Drive, Search |
-| Workflow | A menu. The pictures open it to Start workflow and Inbox & outbox. Application folder is a page in the same group when the company uses it |
-| Workspace | Signing, Audit, People & access, Security, Settings. Rules is its own page when the company files incoming documents with rules |
+| Workflow | A menu: Start workflow, Inbox & outbox, Application folder, E-form designer, Workflow designer |
+| Workspace | Signing, Rules, Audit, People & access, Security, Settings |
 
-**Workflow** is the row with a chevron. It is not a page by itself. Click the row and the chevron turns up. In the pictures, the menu is **Start workflow** and **Inbox & outbox**. Each item, including Application folder when the company uses it, has its own example on the [Workflow](workflow.md) page.
+**Workflow** is the row with a chevron. Click the row and the chevron turns up. The menu under it is the whole Workflow group. Each item has its own page in this book.
+
+<figure class="shot">
+  <img src="assets/sidebar.png" alt="VisionDoc sidebar with Overview, Workflow, and Workspace expanded">
+  <figcaption>The console menu. Workflow is open.</figcaption>
+</figure>
+
+Company administrators see the setup items: E-form designer, Workflow designer, Rules, People & access, and Settings. Another role sees the items that role allows.
 
 The sun icon switches light and dark. **EN** switches the language. The door icon signs you out. **Ask** sits at the bottom right of every page.
 

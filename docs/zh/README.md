@@ -13,9 +13,9 @@
     <strong>文件庫</strong>
     <span>Home 裡面是 Invoice、Quotation 和 Sales Order。</span>
   </a>
-  <a class="card card-flow" href="workflow.html">
+  <a class="card card-flow" href="start-workflow.html">
     <strong>Workflow</strong>
-    <span>打開選單，裡面有 Start workflow 和 Inbox &amp; outbox。</span>
+    <span>開始一次流程、看收件箱，或者設計表單和流程。</span>
   </a>
   <a class="card card-import" href="folder-import.html">
     <strong>資料夾匯入</strong>
@@ -37,10 +37,17 @@
 | 組 | 項目 |
 |---|---|
 | 總覽 | 圖表報告、文件庫、搜尋 |
-| Workflow | 一個選單。畫面裡打開之後是 Start workflow 和 Inbox & outbox。公司有用的話，同一組還會有 Application folder |
-| 工作區 | 待簽署、稽核記錄、人員與權限、安全性、設定。公司用規則歸檔時，規則是自己的一頁 |
+| Workflow | 一個選單：Start workflow、Inbox & outbox、Application folder、E-form designer、Workflow designer |
+| 工作區 | 待簽署、規則、稽核記錄、人員與權限、安全性、設定 |
 
-**Workflow** 那一行右邊有一個箭嘴。它本身不是一頁。點下去，箭嘴會轉向上。畫面裡的選單是 **Start workflow** 和 **Inbox & outbox**。每一項的例子，包括公司有用時的 Application folder，在 [Workflow](workflow.md)。
+**Workflow** 那一行右邊有一個箭嘴。點下去，箭嘴轉向上，下面就是整個 Workflow 組。每一項在這本說明裡都有自己的一頁。側欄上這幾項的名稱在繁體中文介面仍然是英文。總覽和工作區會轉成中文。
+
+<figure class="shot">
+  <img src="assets/sidebar.png" alt="VisionDoc 側欄，Workflow 選單已打開">
+  <figcaption>主控台選單。Workflow 是打開的。選中的是 Workflow designer。</figcaption>
+</figure>
+
+公司管理員看得到設定那些項：E-form designer、Workflow designer、規則、人員與權限、設定。其他角色只看到自己允許的項目。
 
 太陽圖示轉淺色和深色。**中** 轉語言。門的圖示是登出。**詢問** 在每一頁的右下角。
 
