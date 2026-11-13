@@ -7,21 +7,21 @@
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 
-**Application folder** 是每一份申請和它的決定。標題下面寫 **Your submitted applications and completed decisions, across workflows.** 側欄上的名稱仍然是英文。
+**Application folder** 是大家交過的申請，以及每一份的決定。這個名稱在中文畫面仍然是英文。標題下面寫 **Your submitted applications and completed decisions, across workflows.**
 
 <figure class="shot">
-  <img src="assets/applications.png" alt="Application folder 的篩選列，記錄本身沒有放進畫面">
-  <figcaption>上面是篩選。記錄沒有放進這張圖。這頁畫面是英文。</figcaption>
+  <img src="assets/applications.png" alt="Application folder 的篩選列">
+  <figcaption>上面是篩選。記錄本身沒有放進這張圖。</figcaption>
 </figure>
 
 | 控制 | 做甚麼 |
 |---|---|
-| Workflow | **All workflows**，或者只選一個流程 |
-| Status | **All statuses**，或者只選一個狀態 |
+| Workflow | **All workflows**，或選一條流程 |
+| Status | **All statuses**，或選一個狀態 |
 | Search | **Record, claimant or purpose** |
-| From / To | 一段日期 |
-| Export CSV | 下載符合的列 |
+| From / To | 開始日期和結束日期 |
+| Export CSV | 下載對得上的列 |
 
-畫面寫 **3 records**。那些列沒有放進說明書。
+這張圖寫 **3 records**。那些列沒有放進說明裡。
 
-例子：上星期交了一份報價，你只想看還沒完成的。把 **Status** 離開 **All statuses**，在用途裡打一個字，**From** 和 **To** 設成那個星期。**Export CSV** 存下那些列。畫面的 **3 records** 是這家公司的數目，不是上限。
+你想看上星期還未完成的報價。把 **Status** 離開 **All statuses**。打用途裡的一個字。把 **From** 和 **To** 設成那個星期。**Export CSV** 把那些列存下來。**3 records** 是這家公司的數目，不是上限。

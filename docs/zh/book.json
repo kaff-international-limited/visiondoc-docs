@@ -2,7 +2,7 @@
   "title": "VisionDoc",
   "description": "VisionDoc 使用說明",
   "language": "zh-Hant",
-  "plugins": ["-sharing", "-fontsettings"],
+  "plugins": ["-sharing", "-fontsettings", "lang"],
   "styles": {
     "website": "styles/website.css"
   }

@@ -7,21 +7,21 @@
   <figcaption>Watch the video</figcaption>
 </figure>
 
-**Search** in the sidebar opens a window over the page. It searches the workspace, not just the folder you have open.
+**Search** in the left menu looks through all your company's files, not just the folder you have open.
 
 <figure class="shot">
   <img src="assets/search.png" alt="Search window with Name, Content, and Tag">
-  <figcaption>Search your files. Choose name, content, or tag.</figcaption>
+  <figcaption>Search by name, by the words inside a file, or by a tag.</figcaption>
 </figure>
 
-Type in **Search by name, content, or tag…**. Three chips narrow it:
+Type in **Search by name, content, or tag…**. Then pick one of these:
 
-| Chip | Example |
+| Choice | What it finds |
 |---|---|
-| Name | `invoice` finds a file whose name contains invoice |
-| Content | The word inside the PDF, even when the file name does not say it |
-| Tag | A tag someone put on the document |
+| Name | A file whose name contains the word. `invoice` finds a file named invoice |
+| Content | A word inside the PDF, even when the file name does not say it |
+| Tag | A tag someone put on the file |
 
-The arrows choose a result. **Open** opens it. **esc** closes the window.
+The arrows move through the results. **Open** opens the file. **esc** closes the window.
 
 **Search files…** inside Drive is different. That box only filters the folder on the screen.

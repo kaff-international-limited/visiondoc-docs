@@ -12,19 +12,19 @@
   <figcaption>Drop-off link is in the top row.</figcaption>
 </figure>
 
-**Drop-off link** makes a link into the folder you have open. A guest uploads through that link and does not need a VisionDoc account. People who can add files to Drive see this button.
+**Drop-off link** makes a link for the folder you have open. Someone outside the company can upload into that folder. They do not need a VisionDoc account. You see this button if you can add files.
 
-The box is titled **Drop-off link**, then the folder name. The line under the title says guests upload into this folder without a console login.
+The box title is **Drop-off link**, then the folder name. The line under it says guests can upload into this folder without signing in.
 
-| Control | What it does |
+| Button | What it does |
 |---|---|
-| Require email one-time passcode | Emails a code. The guest enters it before the link will take a file |
+| Require email one-time passcode | Emails a code. The guest types it before the link will take a file |
 | Expires in hours | How long the link lasts |
-| Then request e-sign | After the upload, ask for a signature. The title can be left blank |
+| Then request e-sign | After the upload, ask them to sign. You can leave the title blank |
 | Create link | Makes the link |
-| Copy URL | Copies the address |
+| Copy URL | Copies the address so you can send it |
 | Revoke | Turns that link off. Files already uploaded stay in Drive |
 
-The box lists links for this folder that are still on. If there are none, it says **No drop-off links for this folder yet**.
+If this folder has no links yet, the box says **No drop-off links for this folder yet**.
 
-Example: open **Quotation**, click **Drop-off link**, set the hours, **Create link**, and **Copy URL**. Send that address to the customer. The customer uploads a signed quotation and does not need an account.
+Open **Quotation**. Click **Drop-off link**. Set the hours. Click **Create link**, then **Copy URL**. Send that address to the customer. They upload the quotation. They do not need an account.

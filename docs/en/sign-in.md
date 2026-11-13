@@ -9,17 +9,17 @@
 
 <figure class="shot">
   <img src="assets/login.png" alt="VisionDoc sign-in page">
-  <figcaption>Account, password, Log In, or a passkey.</figcaption>
+  <figcaption>Type your email and password, then click Log In.</figcaption>
 </figure>
 
 1. Open [https://app.visiondoc.ai](https://app.visiondoc.ai).
-2. Enter **Account (Email)** and **Password**.
+2. Type your **Account (Email)** and **Password**.
 3. Click **Log In**.
 
-The card says **Document compliance · Data protection**. Use the account your company gave you.
+Use the account your company gave you.
 
-If the account or password is wrong, the page says **Incorrect account or password, please try again.**
+If the email or password is wrong, the page says **Incorrect account or password, please try again.**
 
-**Sign in with a passkey** works when this browser already has one for that account. **EN English** on the card switches this page to Traditional Chinese.
+If this browser already has a passkey for you, click **Sign in with a passkey**. **EN English** on the card changes this page to Chinese.
 
-**Log out** is the door icon at the bottom of the sidebar. That ends the session on this browser. It does not delete files.
+To sign out, click the door at the bottom of the left menu. You are signed out of this browser. Your files stay.

@@ -1,5 +1,3 @@
-<p class="kicker"><a href="../zh/index.html">繁體中文</a></p>
-
 # How to use VisionDoc
 
 <figure class="watch">
@@ -7,53 +5,49 @@
   <figcaption>Watch the video</figcaption>
 </figure>
 
-<p class="lede">VisionDoc is your company’s document workspace. Sign in, see what needs attention, and keep the files in Drive.</p>
+<p class="lede">VisionDoc is where your company keeps its files. Sign in, see what needs you, then open the files in Drive.</p>
 
 <div class="cards">
   <a class="card card-sign" href="sign-in.html">
     <strong>Sign in</strong>
-    <span>Open the console with the account your company gave you.</span>
+    <span>Use the account your company gave you.</span>
   </a>
   <a class="card card-drive" href="drive.html">
     <strong>Drive</strong>
-    <span>Home holds Invoice, Quotation, and Sales Order.</span>
+    <span>Your files live in Home, under Invoice, Quotation, and Sales Order.</span>
   </a>
   <a class="card card-flow" href="start-workflow.html">
     <strong>Workflow</strong>
-    <span>Start a run, check the inbox, or design a form and a workflow.</span>
+    <span>Send a file for approval, or see what is waiting for you.</span>
   </a>
   <a class="card card-import" href="folder-import.html">
     <strong>Folder import</strong>
-    <span>Bring files in from a folder on your network.</span>
+    <span>Bring in files from a folder on your network.</span>
   </a>
 </div>
 
-Open it at **[https://app.visiondoc.ai](https://app.visiondoc.ai)**. This book has an English copy and a Traditional Chinese copy. In the console, **EN** at the bottom left switches the language the same way.
+Open **[https://app.visiondoc.ai](https://app.visiondoc.ai)**. Use **EN** or **中文** at the top right of this guide to change language.
 
 <figure class="shot">
   <img src="assets/login.png" alt="VisionDoc sign-in page">
-  <figcaption>The production sign-in page, in English.</figcaption>
+  <figcaption>The sign-in page.</figcaption>
 </figure>
 
-## Where things live
+## The menu
 
-The sidebar has three groups.
+The menu on the left has three groups.
 
-| Group | Items |
+| Group | What you will see |
 |---|---|
 | Overview | Dashboard, Drive, Search |
-| Workflow | A menu: Start workflow, Inbox & outbox, Application folder, E-form designer, Workflow designer |
+| Workflow | An arrow. Click it to open Start workflow, Inbox & outbox, Application folder, E-form designer, and Workflow designer |
 | Workspace | Signing, Rules, Audit, People & access, Security, Settings |
-
-**Workflow** is the row with a chevron. Click the row and the chevron turns up. The menu under it is the whole Workflow group. Each item has its own page in this book.
 
 <figure class="shot">
   <img src="assets/sidebar.png" alt="VisionDoc sidebar with Overview, Workflow, and Workspace expanded">
-  <figcaption>The console menu. Workflow is open.</figcaption>
+  <figcaption>The menu. Workflow is open.</figcaption>
 </figure>
 
-Company administrators see the setup items: E-form designer, Workflow designer, Rules, People & access, and Settings. Another role sees the items that role allows.
+People who manage the company also see the setup pages: E-form designer, Workflow designer, Rules, People & access, and Settings. Everyone else sees only what their role allows.
 
-The sun icon switches light and dark. **EN** switches the language. The door icon signs you out. **Ask** sits at the bottom right of every page.
-
-These pictures were taken on production in November 2026.
+The sun switches light and dark. On the sign-in page, **EN English** switches that page to Chinese. The door at the bottom of the menu signs you out. **Ask** is at the bottom right of every page.

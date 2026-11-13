@@ -1,0 +1,9 @@
+{
+  "name": "honkit-plugin-lang",
+  "version": "1.0.0",
+  "description": "EN and 中文 switch in the book header",
+  "main": "index.js",
+  "engines": {
+    "honkit": "*"
+  }
+}

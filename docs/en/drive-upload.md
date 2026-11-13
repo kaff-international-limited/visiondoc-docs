@@ -12,10 +12,12 @@
   <figcaption>Upload files is the green button on the right.</figcaption>
 </figure>
 
-**Upload files** is the green button on the right of the top row. It sends the files you pick into the folder you have open. You can pick more than one.
+**Upload files** is the green button on the right.
+
+1. Open the folder the files should go into.
+2. Click **Upload files**.
+3. Pick one or more files.
 
 You can also drop files onto the page. They go into the folder you have open.
 
-A filing rule can place a file in a different folder from the one you had open. The page tells you where it landed. It names the file, the folder it went to, and the rule that put it there.
-
-Example: you are in **Home** and you upload `invoice-104.pdf`. A rule files invoices into **Invoice**. The page says the file is in **Invoice**, not in **Home**.
+A filing rule can put a file in a different folder. The page tells you the file name, the folder it went to, and the rule that moved it.

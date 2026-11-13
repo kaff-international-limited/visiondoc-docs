@@ -493,12 +493,12 @@ body {
     display: none;
   }
 
-  .book-summary #book-search-input {
-    position: fixed;
-    z-index: 30;
-    top: 24px;
-    left: calc(14px + 248px + (100vw - 28px - 248px) / 2);
-    width: min(360px, calc(100vw - 460px));
+  .book-header #book-search-input {
+    position: absolute;
+    z-index: 5;
+    top: 10px;
+    left: 50%;
+    width: min(360px, calc(100% - 280px));
     margin: 0;
     padding: 0;
     background: transparent;
@@ -506,7 +506,7 @@ body {
     transform: translateX(-50%);
   }
 
-  .book-summary #book-search-input::before {
+  .book-header #book-search-input::before {
     top: 50%;
     left: 12px;
   }
@@ -522,6 +522,44 @@ body {
   }
 }
 
+.book-header .lang-switch {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  z-index: 6;
+  display: flex;
+  gap: 2px;
+  margin: 0;
+  padding: 3px;
+  border: 1px solid #e6eeeb;
+  border-radius: 999px;
+  background: #ffffff;
+}
+
+.book-header .lang-switch a {
+  padding: 4px 12px;
+  border-radius: 999px;
+  color: #4a5f59;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 22px;
+  text-decoration: none;
+}
+
+.book-header .lang-switch a.on {
+  color: #ffffff;
+  background: #0b5f50;
+}
+
+.book-header .lang-switch a:hover {
+  color: #0b5f50;
+  text-decoration: none;
+}
+
+.book-header .lang-switch a.on:hover {
+  color: #ffffff;
+}
+
 @media (max-width: 600px) {
   .book {
     top: 0;
@@ -533,5 +571,13 @@ body {
 
   .markdown-section h1 {
     font-size: 28px;
+  }
+
+  .book-header .lang-switch {
+    right: 8px;
+  }
+
+  .book-header .lang-switch a {
+    padding: 4px 8px;
   }
 }

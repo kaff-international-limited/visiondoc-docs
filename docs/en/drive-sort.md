@@ -9,9 +9,10 @@
 
 <figure class="shot">
   <img src="assets/drive.png" alt="Drive home, with Type in the top row">
-  <figcaption>Type is in the top row. It sorts this folder by kind.</figcaption>
+  <figcaption>Type is in the top row.</figcaption>
 </figure>
 
-**Type** sorts the open folder by the kind of item. A folder and a PDF are different types.
+**Type** sorts this folder by kind. A folder and a PDF are different kinds.
 
-The arrow points up for **Type A→Z**. Click **Type** again and the arrow points down for **Type Z→A**.
+1. Click **Type**. The arrow points up. That is **Type A→Z**.
+2. Click **Type** again. The arrow points down. That is **Type Z→A**.

@@ -11,7 +11,7 @@
 
 <figure class="shot">
   <img src="assets/signing.png" alt="Signing page with no pending signature requests">
-  <figcaption>Pending signatures. This company has none waiting.</figcaption>
+  <figcaption>Nothing is waiting for a signature.</figcaption>
 </figure>
 
 The line under the title says **Who has not signed yet — send a reminder or resend the link without opening the job. Requested people can cancel.**
@@ -29,6 +29,6 @@ The table is **Pending signatures**.
 
 An empty list says **No pending signature requests.** You only see requests for your company.
 
-Example: a customer was asked to sign the quotation on Monday, and by Wednesday the **Not signed** column still has their name. Open **Signing**, find that row, and send a reminder from **Actions** without opening the file. When they sign, the row leaves this list. If the date in **Expiry** has passed, send a new request instead of another reminder. The picture has no rows, so there is nothing to remind.
+A customer was asked to sign a quotation on Monday. By Wednesday their name is still under **Not signed**. Open **Signing**, find that row, and send a reminder from **Actions**. You do not have to open the file. When they sign, the row leaves this list. If the date in **Expiry** has passed, send a new request instead of another reminder.
 
-A drop-off link in Drive can also ask for a signature after a guest uploads. That option is **Then request e-sign**. The signed file then shows on this page until everyone named on it has signed.
+A drop-off link can also ask for a signature after someone uploads. That option is **Then request e-sign**. The file stays on this page until everyone named on it has signed.

@@ -9,13 +9,16 @@
 
 <figure class="shot">
   <img src="assets/drive.png" alt="Drive home, with Filter on the right of the folder name">
-  <figcaption>Home is open. The magnifying glass on the right of the folder name is Filter.</figcaption>
+  <figcaption>The magnifying glass on the right of the folder name is Filter.</figcaption>
 </figure>
 
-The magnifying glass sits on the right of the folder name. It is **Filter**.
+**Filter** is the magnifying glass on the right of the folder name.
 
-It opens a box that says **Filter by name…**. Type part of a name. The folder you are looking at keeps only the names that match. **Close** clears the box, and the whole folder comes back.
+1. Click it.
+2. Type part of a name in **Filter by name…**.
+3. You only see the names that match.
+4. Click **Close** to see the whole folder again.
 
-**Search files…** on the left of Drive is the same filter. Typing in either box filters this folder. **Search** in the sidebar searches the whole workspace.
+**Search files…** on the left does the same thing for this folder. **Search** in the left menu looks through every folder.
 
-Example: you are in **Quotation** and you want this year's files. Click the magnifying glass and type `2026`. Only those names stay. **Close** brings the rest back.
+You are in **Quotation** and want this year's files. Click the magnifying glass and type `2026`. Click **Close** when you want the rest back.

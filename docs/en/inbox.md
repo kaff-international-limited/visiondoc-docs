@@ -7,14 +7,14 @@
   <figcaption>Watch the video</figcaption>
 </figure>
 
-**Inbox & outbox** is the list of runs already moving. The title is **Workflow inbox & outbox**. The line under it says **Incoming approvals, submitted work, and decisions in one place.**
+**Inbox & outbox** is the list of work that is already moving. The title is **Workflow inbox & outbox**. The line under it says **Incoming approvals, submitted work, and decisions in one place.**
 
 <figure class="shot">
   <img src="assets/inbox.png" alt="Workflow inbox with Waiting for you selected and an empty list">
-  <figcaption>Waiting for you is selected. This account has nothing to approve.</figcaption>
+  <figcaption>Waiting for you is selected. Nothing needs approval.</figcaption>
 </figure>
 
-Four counts sit across the top. The picture shows:
+Four numbers sit across the top. In the picture they are:
 
 | Count | In the picture |
 |---|---|
@@ -23,10 +23,10 @@ Four counts sit across the top. The picture shows:
 | Submitted by you | 3 |
 | Processed by you | 1 |
 
-**Waiting for you** is selected, and the list says **No approvals waiting for you.** The line under that says **Approvals assigned to you will appear here when they need your attention.** **View all records** leaves that empty filter.
+**Waiting for you** is selected. The list says **No approvals waiting for you.** The line under that says **Approvals assigned to you will appear here when they need your attention.** **View all records** clears that filter.
 
-**Tasks** on the dashboard opens this same list, with the **Tasks** pill selected.
+**Tasks** on the dashboard opens this same list.
 
-The search box reads **Search records, stages, or assignees**. **Type** is **All types**. **Status** is **All statuses**. **Created from** and **Created to** take a date. **Export CSV** downloads the list you are looking at.
+The search box says **Search records, stages, or assignees**. **Type** starts at **All types**. **Status** starts at **All statuses**. **Created from** and **Created to** are dates. **Export CSV** downloads the list you are looking at.
 
-Example: the manager opens **Inbox & outbox**, leaves **Waiting for you** selected, and approves the quotation. After that, **Waiting for you** goes back to 0 and **Processed by you** goes up by one. The salesperson opens the same page, selects **Submitted by you**, and sees the three they already sent. To see only what is still open, set **Status** away from **All statuses**.
+A manager opens **Inbox & outbox**, leaves **Waiting for you** selected, and approves the quotation. **Waiting for you** goes back to 0. **Processed by you** goes up by one. The salesperson opens the same page, clicks **Submitted by you**, and sees the three they already sent.
