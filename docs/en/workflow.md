@@ -16,12 +16,7 @@ On the company in the pictures, the open menu has two items.
 | Start workflow | Pick a workflow and begin it |
 | Inbox & outbox | See work waiting for you, work you sent, and work you already decided |
 
-Two more pages sit in the same group when the company uses them. They are not in this menu picture. Each has its own screenshot below.
-
-| Page | What you do there |
-|---|---|
-| Application folder | See each application and the decision on it |
-| Purchase Requisition | A non-trade request, from the draft through approval and the delivery record |
+**Application folder** is another page in the same group when the company uses it. It is not in this menu picture.
 
 ## Start workflow
 
@@ -82,31 +77,3 @@ Example: the manager opens **Inbox & outbox**, leaves **Waiting for you** select
 The picture says **3 records**. The rows themselves are not in the book.
 
 Example: a quotation was submitted last week and you only want the ones still open. Set **Status** off **All statuses**, type a word from the purpose, and set **From** and **To** to that week. **Export CSV** saves those rows. **3 records** in the picture is this company's count, not a limit.
-
-## Purchase Requisition
-
-**Purchase Requisition** is the non-trade list. The line under the title says **Non-trade with PR · VisionDoc routing**, then **Your requisitions, ready for the next step.**
-
-<figure class="shot">
-  <img src="assets/requisition.png" alt="Purchase Requisition with the attention filter empty">
-  <figcaption>Attention required is 0. Delivery documents has 1. The account name is covered.</figcaption>
-</figure>
-
-**New requisition** starts one. The search box reads **Search title, PR no., staff, status, tags, awarded vendor**. **Dept code** filters by department.
-
-The chips in the picture:
-
-| Chip | Count |
-|---|---|
-| Attention required | 0 |
-| All | 4 |
-| Waiting for Dept Head | 0 |
-| BOCD | 0 |
-| Accounting | 0 |
-| Legal | 0 |
-| Delivery documents | 1 |
-| Closed | 0 |
-
-**Attention required** is selected, so the page says **You're all caught up** and **0 requisitions in this view**. **View all requisitions** leaves that filter. **Company year ends 31/3**. The columns are **Title**, **Vendor**, **Amount**, **Dept**, **Status**, **Date**, and **Actions**.
-
-Example: someone needs office supplies. They click **New requisition**, fill the request, and send it. It waits under **Waiting for Dept Head**, then **Accounting**. When the goods arrive, it sits on **Delivery documents** until the delivery record is in. In the picture that last chip already has 1, and **Attention required** has 0, so nothing on this account needs a decision right now. Switch to **Delivery documents** to open the one that is waiting for the delivery record. **All** shows the 4.

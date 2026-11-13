@@ -16,12 +16,7 @@
 | Start workflow | 選一個流程，然後開始 |
 | Inbox & outbox | 看等你處理的、你送出的，和你已經決定的 |
 
-同一組還有兩頁。這家公司的選單畫面沒有它們。下面各自有截圖。這兩頁的標題也是英文。
-
-| 頁 | 用來做甚麼 |
-|---|---|
-| Application folder | 看每一份申請，以及最後的決定 |
-| Purchase Requisition | 非貿易申請，由草稿到審批，再到收貨記錄 |
+**Application folder** 是同一組的另一頁，公司有用才會出現。這家公司的選單畫面沒有它。這頁的標題也是英文。
 
 ## Start workflow
 
@@ -82,31 +77,3 @@
 畫面寫 **3 records**。那些列沒有放進說明書。
 
 例子：上星期交了一份報價，你只想看還沒完成的。把 **Status** 離開 **All statuses**，在用途裡打一個字，**From** 和 **To** 設成那個星期。**Export CSV** 存下那些列。畫面的 **3 records** 是這家公司的數目，不是上限。
-
-## Purchase Requisition
-
-**Purchase Requisition** 是非貿易申請的清單。標題下面寫 **Non-trade with PR · VisionDoc routing**，然後是 **Your requisitions, ready for the next step.**
-
-<figure class="shot">
-  <img src="assets/requisition.png" alt="Purchase Requisition，需要你處理的數目是 0">
-  <figcaption>Attention required 是 0。Delivery documents 是 1。帳戶名稱蓋住了。這頁畫面是英文。</figcaption>
-</figure>
-
-**New requisition** 開始一份新的。搜尋框寫 **Search title, PR no., staff, status, tags, awarded vendor**。**Dept code** 按部門篩。
-
-畫面裡的篩選：
-
-| 篩選 | 數目 |
-|---|---|
-| Attention required | 0 |
-| All | 4 |
-| Waiting for Dept Head | 0 |
-| BOCD | 0 |
-| Accounting | 0 |
-| Legal | 0 |
-| Delivery documents | 1 |
-| Closed | 0 |
-
-選中的是 **Attention required**，所以頁面寫 **You're all caught up**，而且 **0 requisitions in this view**。**View all requisitions** 離開這個篩選。**Company year ends 31/3**。欄是 **Title**、**Vendor**、**Amount**、**Dept**、**Status**、**Date**、**Actions**。
-
-例子：有人要買文具。按 **New requisition**，填好，送出。它先停在 **Waiting for Dept Head**，再到 **Accounting**。貨到了之後，停在 **Delivery documents**，直到收貨記錄放進去。畫面裡最後那一項已經有 1，**Attention required** 是 0，所以這個帳戶現在沒有要決定的。改選 **Delivery documents** 就看到那一份還在等收貨記錄。**All** 會列出全部 4 份。

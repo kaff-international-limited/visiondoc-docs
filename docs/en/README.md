@@ -37,10 +37,10 @@ The sidebar has three groups.
 | Group | Items |
 |---|---|
 | Overview | Dashboard, Drive, Search |
-| Workflow | A menu. The pictures open it to Start workflow and Inbox & outbox. Application folder and Purchase Requisition are pages in the same group when the company uses them |
+| Workflow | A menu. The pictures open it to Start workflow and Inbox & outbox. Application folder is a page in the same group when the company uses it |
 | Workspace | Signing, Audit, People & access, Security, Settings. Rules is its own page when the company files incoming documents with rules |
 
-**Workflow** is the row with a chevron. It is not a page by itself. Click the row and the chevron turns up. In the pictures, the menu is **Start workflow** and **Inbox & outbox**. Each item, including the two pages a company may also have, has its own example on the [Workflow](workflow.md) page.
+**Workflow** is the row with a chevron. It is not a page by itself. Click the row and the chevron turns up. In the pictures, the menu is **Start workflow** and **Inbox & outbox**. Each item, including Application folder when the company uses it, has its own example on the [Workflow](workflow.md) page.
 
 The sun icon switches light and dark. **EN** switches the language. The door icon signs you out. **Ask** sits at the bottom right of every page.
 
