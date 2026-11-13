@@ -31,6 +31,7 @@ jobs:
           find docs/_site -name apple-touch-icon-precomposed-152.png -exec cp docs/apple-touch-icon.png {} \;
           cp docs/favicon.ico docs/_site/favicon.ico
           cp docs/apple-touch-icon.png docs/_site/apple-touch-icon.png
+          cp .github/default-index.html docs/_site/index.html
           printf '%s\n' docs.visiondoc.ai > docs/_site/CNAME
       - uses: actions/upload-pages-artifact@v3
         with:
