@@ -2,7 +2,7 @@
 
 # Drop-off link
 
-<p><a href="../videos/10-drop-off-link.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/10-drop-off-link.mp4">Watch the video</a></p>
 
 **Drop-off link** makes a link into the folder you have open. A guest uploads through that link and does not need a VisionDoc account. People who can add files to Drive see this button.
 

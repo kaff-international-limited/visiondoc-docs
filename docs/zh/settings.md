@@ -2,7 +2,7 @@
 
 # 設定
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/24-settings.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/24-settings.mp4">看短片</a></p>
 
 **設定** 的副題是 **登入、遮蔽、浮水印，以及這個工作區如何運作**。
 

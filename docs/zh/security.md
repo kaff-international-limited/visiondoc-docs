@@ -2,7 +2,7 @@
 
 # 安全性
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/23-security.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/23-security.mp4">看短片</a></p>
 
 **安全性** 的副題是 **你的登入資料。** 這是你自己的帳戶，不是公司名單。
 

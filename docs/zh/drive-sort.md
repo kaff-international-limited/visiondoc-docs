@@ -2,7 +2,7 @@
 
 # 類型
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/07-type.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/07-type.mp4">看短片</a></p>
 
 **類型** 按項目的種類給打開的資料夾排序。資料夾和 PDF 是不同的類型。英文畫面寫 **Type**。
 

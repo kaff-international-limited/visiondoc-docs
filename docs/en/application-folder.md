@@ -2,7 +2,7 @@
 
 # Application folder
 
-<p><a href="../videos/16-application-folder.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/16-application-folder.mp4">Watch the video</a></p>
 
 **Application folder** is the list of applications and the decision on each one. The line under the title says **Your submitted applications and completed decisions, across workflows.**
 

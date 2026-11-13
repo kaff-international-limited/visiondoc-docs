@@ -2,7 +2,7 @@
 
 # People & access
 
-<p><a href="../videos/22-people-and-access.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/22-people-and-access.mp4">Watch the video</a></p>
 
 **People & access** says **Who can sign in, what their role allows, which group they are in**.
 

@@ -2,7 +2,7 @@
 
 # 報表
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/09-reports.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/09-reports.mp4">看短片</a></p>
 
 **報表** 打開你正在看的資料夾的面板。標題是 **報表**。英文畫面寫 **Reports**。
 

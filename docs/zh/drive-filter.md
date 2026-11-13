@@ -2,7 +2,7 @@
 
 # 篩選
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/05-filter.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/05-filter.mp4">看短片</a></p>
 
 放大鏡在資料夾名稱的右邊。它是 **篩選**。英文畫面寫 **Filter**。
 

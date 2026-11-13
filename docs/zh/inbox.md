@@ -2,7 +2,7 @@
 
 # Inbox & outbox
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/15-inbox-and-outbox.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/15-inbox-and-outbox.mp4">看短片</a></p>
 
 **Inbox & outbox** 是已經在走的流程。標題是 **Workflow inbox & outbox**。下面寫 **Incoming approvals, submitted work, and decisions in one place.**，即是待批、已送出和已決定的，放在同一個地方。這頁的產品名稱仍然是英文。
 

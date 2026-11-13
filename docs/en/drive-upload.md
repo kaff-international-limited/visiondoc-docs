@@ -2,7 +2,7 @@
 
 # Upload files
 
-<p><a href="../videos/12-upload-files.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/12-upload-files.mp4">Watch the video</a></p>
 
 **Upload files** is the green button on the right of the top row. It sends the files you pick into the folder you have open. You can pick more than one.
 

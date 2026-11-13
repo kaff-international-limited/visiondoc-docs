@@ -2,7 +2,7 @@
 
 # Signing
 
-<p><a href="../videos/19-signing.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/19-signing.mp4">Watch the video</a></p>
 
 **Signing** is the first item under Workspace. It lists signature requests that are still open.
 

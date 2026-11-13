@@ -2,7 +2,7 @@
 
 # Start workflow
 
-<p><a href="../videos/14-start-workflow.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/14-start-workflow.mp4">Watch the video</a></p>
 
 **Start workflow** is the first item in the Workflow menu. It opens **Workflows**. The line under the title says **Choose a workflow to get started.**
 

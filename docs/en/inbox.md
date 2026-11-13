@@ -2,7 +2,7 @@
 
 # Inbox & outbox
 
-<p><a href="../videos/15-inbox-and-outbox.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/15-inbox-and-outbox.mp4">Watch the video</a></p>
 
 **Inbox & outbox** is the list of runs already moving. The title is **Workflow inbox & outbox**. The line under it says **Incoming approvals, submitted work, and decisions in one place.**
 

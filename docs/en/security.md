@@ -2,7 +2,7 @@
 
 # Security
 
-<p><a href="../videos/23-security.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/23-security.mp4">Watch the video</a></p>
 
 **Security** is **Your sign-in details.** It is your own account, not the company list.
 

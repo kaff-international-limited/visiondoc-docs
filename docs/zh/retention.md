@@ -2,7 +2,7 @@
 
 # 記錄保留
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/25-retention.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/25-retention.mp4">看短片</a></p>
 
 記錄保留是一份檔案留多久。你可以在文件庫為一個檔案或一個資料夾設定。公司管理員也在設定裡定整家公司的規則。
 

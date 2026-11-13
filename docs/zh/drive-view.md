@@ -2,7 +2,7 @@
 
 # 清單和格狀
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/06-list-and-grid.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/06-list-and-grid.mp4">看短片</a></p>
 
 文件庫打開時是卡片。資料夾卡片寫 **資料夾**。PDF 卡片寫檔案類型。英文畫面的資料夾卡片寫 **Folder**。
 

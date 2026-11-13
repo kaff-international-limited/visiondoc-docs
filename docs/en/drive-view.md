@@ -2,7 +2,7 @@
 
 # List and grid
 
-<p><a href="../videos/06-list-and-grid.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/06-list-and-grid.mp4">Watch the video</a></p>
 
 Drive opens as cards. A folder card says **Folder**. A PDF card says **PDF**.
 

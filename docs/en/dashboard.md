@@ -2,7 +2,7 @@
 
 # Dashboard
 
-<p><a href="../videos/03-dashboard.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/03-dashboard.mp4">Watch the video</a></p>
 
 The first page after sign-in is the dashboard. The line under the title says **Workspace activity and usage at a glance**.
 

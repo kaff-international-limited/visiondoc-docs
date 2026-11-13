@@ -2,7 +2,7 @@
 
 # Sign in
 
-<p><a href="../videos/02-sign-in.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/02-sign-in.mp4">Watch the video</a></p>
 
 <figure class="shot">
   <img src="assets/login.png" alt="VisionDoc sign-in page">

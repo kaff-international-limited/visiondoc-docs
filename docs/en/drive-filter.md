@@ -2,7 +2,7 @@
 
 # Filter
 
-<p><a href="../videos/05-filter.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/05-filter.mp4">Watch the video</a></p>
 
 The magnifying glass sits on the right of the folder name. It is **Filter**.
 

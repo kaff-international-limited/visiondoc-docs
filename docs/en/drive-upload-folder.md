@@ -2,7 +2,7 @@
 
 # Upload folder
 
-<p><a href="../videos/11-upload-folder.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/11-upload-folder.mp4">Watch the video</a></p>
 
 **Upload folder** sends a whole folder from your computer into the folder you have open. The folder keeps its own name. The files inside it come with it.
 

@@ -2,7 +2,7 @@
 
 # 上傳文件
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/12-upload-files.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/12-upload-files.mp4">看短片</a></p>
 
 **上傳文件** 是上面一排右邊的綠色按鈕。它把你選的檔案放進你打開的資料夾。可以一次選多於一個。英文畫面寫 **Upload files**。
 

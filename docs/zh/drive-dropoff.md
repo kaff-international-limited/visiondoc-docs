@@ -2,7 +2,7 @@
 
 # 交件連結
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/10-drop-off-link.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/10-drop-off-link.mp4">看短片</a></p>
 
 **交件連結** 做一條連到你打開的資料夾的連結。客人用這條連結上傳，不用 VisionDoc 帳戶。可以在文件庫加檔案的人看得到這個按鈕。英文畫面寫 **Drop-off link**。
 

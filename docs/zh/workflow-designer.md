@@ -2,7 +2,7 @@
 
 # Workflow designer
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/18-workflow-designer.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/18-workflow-designer.mp4">看短片</a></p>
 
 **Workflow designer** 是公司管理員定義流程的地方。側欄上的名稱仍然是英文。頁面標題是 **審批流程**。下面寫 **可設定的多步驟、依角色路由的審批定義**。
 

@@ -2,7 +2,7 @@
 
 # Type
 
-<p><a href="../videos/07-type.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/07-type.mp4">Watch the video</a></p>
 
 **Type** sorts the open folder by the kind of item. A folder and a PDF are different types.
 

@@ -2,7 +2,7 @@
 
 # Reports
 
-<p><a href="../videos/09-reports.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/09-reports.mp4">Watch the video</a></p>
 
 **Reports** opens a panel for the folder you have open. The title is **Reports**.
 

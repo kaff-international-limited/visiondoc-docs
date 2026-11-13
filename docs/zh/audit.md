@@ -2,7 +2,7 @@
 
 # 稽核記錄
 
-<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/21-audit.mp4">看短片</a></p>
+<p>這頁有一段英文短片，字幕也是英文。<a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/21-audit.mp4">看短片</a></p>
 
 **稽核記錄** 的副題是 **每一次讀取、移動、更正與下載，連同是誰做的**。
 

@@ -2,7 +2,7 @@
 
 # Drive
 
-<p><a href="../videos/04-drive.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/04-drive.mp4">Watch the video</a></p>
 
 **Drive** is the library. You land in **Home**.
 

@@ -2,7 +2,7 @@
 
 # Paste
 
-<p><a href="../videos/08-paste.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/08-paste.mp4">Watch the video</a></p>
 
 **Paste** puts a copied or cut item into the folder you have open. The same button is in the top row and in the row that appears when something is selected. It stays grey until something is on the clipboard.
 

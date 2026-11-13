@@ -2,7 +2,7 @@
 
 # Retention
 
-<p><a href="../videos/25-retention.mp4">Watch the video</a></p>
+<p><a href="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/25-retention.mp4">Watch the video</a></p>
 
 Retention is how long a file stays. You set it on one file or one folder in Drive. Company administrators also set the rules for the whole company in Settings.
 
