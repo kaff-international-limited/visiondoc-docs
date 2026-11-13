@@ -2,6 +2,8 @@
 
 # Security
 
+<p><a href="../videos/23-security.mp4">Watch the video</a></p>
+
 **Security** is **Your sign-in details.** It is your own account, not the company list.
 
 <figure class="shot">

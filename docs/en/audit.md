@@ -2,6 +2,8 @@
 
 # Audit
 
+<p><a href="../videos/21-audit.mp4">Watch the video</a></p>
+
 **Audit** reads **Every read, move, correction and download, with who did it**.
 
 <figure class="shot">

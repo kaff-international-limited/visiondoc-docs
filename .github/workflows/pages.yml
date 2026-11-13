@@ -25,6 +25,8 @@ jobs:
       - name: Build the book
         run: |
           npx --yes honkit build docs _site
+          mkdir -p docs/_site/videos
+          cp docs/videos/*.mp4 docs/_site/videos/
           printf '%s\n' docs.visiondoc.ai > docs/_site/CNAME
       - uses: actions/upload-pages-artifact@v3
         with:

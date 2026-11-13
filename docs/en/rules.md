@@ -2,6 +2,8 @@
 
 # Rules
 
+<p><a href="../videos/20-rules.mp4">Watch the video</a></p>
+
 **Rules** sits under Workspace, between Signing and Audit. A rule runs on every document as it arrives, in priority order. The line under the title says identifier rules stamp a formatted tag on the first match, and they do not move the file.
 
 <figure class="shot">

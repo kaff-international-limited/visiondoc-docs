@@ -2,6 +2,8 @@
 
 # 點用 VisionDoc
 
+<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/01-how-to-use-visiondoc.mp4">看短片</a></p>
+
 <p class="lede">VisionDoc 是公司的文件工作區。登入之後，先看有甚麼要處理，文件就放在文件庫。</p>
 
 <div class="cards">

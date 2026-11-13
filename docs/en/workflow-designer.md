@@ -2,6 +2,8 @@
 
 # Workflow designer
 
+<p><a href="../videos/18-workflow-designer.mp4">Watch the video</a></p>
+
 **Workflow designer** is where a company administrator defines a workflow. The page title is **Approval workflows**. The line under it says **Configurable multi-step, role-routed approval definitions**.
 
 <figure class="shot">

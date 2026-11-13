@@ -2,6 +2,8 @@
 
 # 登入
 
+<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/02-sign-in.mp4">看短片</a></p>
+
 <figure class="shot">
   <img src="assets/login.png" alt="VisionDoc 繁體中文登入頁">
   <figcaption>帳號、密碼、登入，或者 Passkey。</figcaption>

@@ -2,6 +2,8 @@
 
 # Sign in
 
+<p><a href="../videos/02-sign-in.mp4">Watch the video</a></p>
+
 <figure class="shot">
   <img src="assets/login.png" alt="VisionDoc sign-in page">
   <figcaption>Account, password, Log In, or a passkey.</figcaption>

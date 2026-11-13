@@ -2,6 +2,8 @@
 
 # Reports
 
+<p><a href="../videos/09-reports.mp4">Watch the video</a></p>
+
 **Reports** opens a panel for the folder you have open. The title is **Reports**.
 
 A saved report is a table of the fields VisionDoc has already read. If you have not saved one, the panel says **No saved reports yet**.

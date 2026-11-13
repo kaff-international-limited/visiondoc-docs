@@ -2,6 +2,8 @@
 
 # 圖表報告
 
+<p>這頁有一段英文短片，字幕也是英文。<a href="../videos/03-dashboard.mp4">看短片</a></p>
+
 登入後第一頁是圖表報告。副題在繁體中文介面仍然是英文：**Workspace activity and usage at a glance**，即是一眼看到工作區在做甚麼、用了多少。
 
 <figure class="shot">

@@ -2,6 +2,8 @@
 
 # Drive
 
+<p><a href="../videos/04-drive.mp4">Watch the video</a></p>
+
 **Drive** is the library. You land in **Home**.
 
 <figure class="shot">

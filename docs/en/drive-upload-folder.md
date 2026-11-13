@@ -2,6 +2,8 @@
 
 # Upload folder
 
+<p><a href="../videos/11-upload-folder.mp4">Watch the video</a></p>
+
 **Upload folder** sends a whole folder from your computer into the folder you have open. The folder keeps its own name. The files inside it come with it.
 
 While that folder is still uploading, **Upload folder** waits.

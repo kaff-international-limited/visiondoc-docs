@@ -2,6 +2,8 @@
 
 # Settings
 
+<p><a href="../videos/24-settings.mp4">Watch the video</a></p>
+
 **Settings** reads **Sign-in, masking, watermark, and how this workspace runs**.
 
 <figure class="shot">

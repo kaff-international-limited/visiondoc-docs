@@ -2,6 +2,8 @@
 
 # Filter
 
+<p><a href="../videos/05-filter.mp4">Watch the video</a></p>
+
 The magnifying glass sits on the right of the folder name. It is **Filter**.
 
 It opens a box that says **Filter by name…**. Type part of a name. The folder you are looking at keeps only the names that match. **Close** clears the box, and the whole folder comes back.

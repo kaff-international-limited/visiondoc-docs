@@ -2,6 +2,8 @@
 
 # Search
 
+<p><a href="../videos/13-search.mp4">Watch the video</a></p>
+
 **Search** in the sidebar opens a window over the page. It searches the workspace, not just the folder you have open.
 
 <figure class="shot">

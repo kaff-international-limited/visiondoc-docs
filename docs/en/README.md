@@ -2,6 +2,8 @@
 
 # How to use VisionDoc
 
+<p><a href="../videos/01-how-to-use-visiondoc.mp4">Watch the video</a></p>
+
 <p class="lede">VisionDoc is your company’s document workspace. Sign in, see what needs attention, and keep the files in Drive.</p>
 
 <div class="cards">

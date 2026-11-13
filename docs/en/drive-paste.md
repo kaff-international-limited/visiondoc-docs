@@ -2,6 +2,8 @@
 
 # Paste
 
+<p><a href="../videos/08-paste.mp4">Watch the video</a></p>
+
 **Paste** puts a copied or cut item into the folder you have open. The same button is in the top row and in the row that appears when something is selected. It stays grey until something is on the clipboard.
 
 **Copy** leaves the original where it is. **Paste** then puts a new copy in the folder you have open. The page tells you to open a folder and click **Paste**.

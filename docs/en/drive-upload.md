@@ -2,6 +2,8 @@
 
 # Upload files
 
+<p><a href="../videos/12-upload-files.mp4">Watch the video</a></p>
+
 **Upload files** is the green button on the right of the top row. It sends the files you pick into the folder you have open. You can pick more than one.
 
 You can also drop files onto the page. They go into the folder you have open.
