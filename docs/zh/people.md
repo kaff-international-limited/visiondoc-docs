@@ -33,3 +33,5 @@
 表的直欄是 **Name**、**Role**、**Title**、**Group**、**Named user**、**Actions**。搜尋框寫 **Search by name, email or role…**。旁邊寫 **All people · 6** 和 **Named users · 6**。
 
 兩個人在銷售，所以那一組顯示 **Sales · 2**。在 **New group name…** 打新部門，按 **New group**，再在每個人身上剔選。**Dept Head · 1** 表示已經有一個人有這個職銜。再加一個職銜，按 **Add title**，剔在該有的人身上。
+
+要把一個人設成 **Admin**，或者拿走 **Admin**，看 [更換管理員](change-admin.md)。

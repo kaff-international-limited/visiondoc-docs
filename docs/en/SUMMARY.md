@@ -33,6 +33,7 @@
 * [Rules](rules.md)
 * [Audit](audit.md)
 * [People & access](people.md)
+* [Change the admin](change-admin.md)
 * [Security](security.md)
 * [Settings](settings.md)
 

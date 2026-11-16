@@ -33,3 +33,5 @@
 The table columns are **Name**, **Role**, **Title**, **Group**, **Named user**, and **Actions**. The search box reads **Search by name, email or role…**. Beside it, the picture says **All people · 6** and **Named users · 6**.
 
 Two people work in sales, so the group shows **Sales · 2**. Type a new department in **New group name…** and click **New group**. Then tick it on each person. **Dept Head · 1** means one person already has that title. Add another title, click **Add title**, and tick it on the person who should have it.
+
+To give someone the **Admin** role, or to take it away, see [Change the admin](change-admin.md).
