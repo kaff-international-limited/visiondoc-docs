@@ -3,7 +3,7 @@
 # Type
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/07-type.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/07-type.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/07-type.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/07-type.mp4?v=20261116"></video>
   <figcaption>Watch the video</figcaption>
 </figure>
 

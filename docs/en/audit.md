@@ -3,7 +3,7 @@
 # Audit
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/21-audit.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/21-audit.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/21-audit.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/21-audit.mp4?v=20261116"></video>
   <figcaption>Watch the video</figcaption>
 </figure>
 

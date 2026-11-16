@@ -3,7 +3,7 @@
 # 圖表報告
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/03-dashboard.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/03-dashboard.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/03-dashboard.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/03-dashboard.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 

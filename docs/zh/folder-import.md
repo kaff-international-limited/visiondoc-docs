@@ -3,7 +3,7 @@
 # 資料夾匯入
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/26-folder-import.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/26-folder-import.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/26-folder-import.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/26-folder-import.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 

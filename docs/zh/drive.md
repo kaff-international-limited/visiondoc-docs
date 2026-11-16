@@ -3,7 +3,7 @@
 # 文件庫
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/04-drive.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/04-drive.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/04-drive.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/04-drive.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 

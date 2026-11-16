@@ -3,7 +3,7 @@
 # 規則
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/20-rules.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/20-rules.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/20-rules.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/20-rules.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@
 # Upload files
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/12-upload-files.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/12-upload-files.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/12-upload-files.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/12-upload-files.mp4?v=20261116"></video>
   <figcaption>Watch the video</figcaption>
 </figure>
 

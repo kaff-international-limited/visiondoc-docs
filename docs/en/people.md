@@ -3,7 +3,7 @@
 # People & access
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/22-people-and-access.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/22-people-and-access.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/22-people-and-access.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/22-people-and-access.mp4?v=20261116"></video>
   <figcaption>Watch the video</figcaption>
 </figure>
 

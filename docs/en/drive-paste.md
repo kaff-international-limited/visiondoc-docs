@@ -3,7 +3,7 @@
 # Paste
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/08-paste.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/08-paste.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/08-paste.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/08-paste.mp4?v=20261116"></video>
   <figcaption>Watch the video</figcaption>
 </figure>
 

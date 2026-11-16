@@ -3,7 +3,7 @@
 # Application folder
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/16-application-folder.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/16-application-folder.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/16-application-folder.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/16-application-folder.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 

@@ -1,7 +1,7 @@
 # How to use VisionDoc
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/01-how-to-use-visiondoc.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/01-how-to-use-visiondoc.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/01-how-to-use-visiondoc.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/01-how-to-use-visiondoc.mp4?v=20261116"></video>
   <figcaption>Watch the video</figcaption>
 </figure>
 

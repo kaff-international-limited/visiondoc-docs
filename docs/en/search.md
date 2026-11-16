@@ -3,7 +3,7 @@
 # Search
 
 <figure class="watch">
-  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/13-search.jpg" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/13-search.mp4"></video>
+  <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/13-search.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/13-search.mp4?v=20261116"></video>
   <figcaption>Watch the video</figcaption>
 </figure>
 
