@@ -33,9 +33,11 @@
 * [規則](rules.md)
 * [稽核記錄](audit.md)
 * [人員與權限](people.md)
+* [權限：誰可以做甚麼](permissions.md)
 * [更換管理員](change-admin.md)
 * [安全性](security.md)
 * [設定](settings.md)
+* [PII 與角色遮蔽](pii.md)
 
 ## 記錄保留
 

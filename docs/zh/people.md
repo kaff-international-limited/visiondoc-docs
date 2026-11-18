@@ -35,3 +35,6 @@
 兩個人在銷售，所以那一組顯示 **Sales · 2**。在 **New group name…** 打新部門，按 **New group**，再在每個人身上剔選。**Dept Head · 1** 表示已經有一個人有這個職銜。再加一個職銜，按 **Add title**，剔在該有的人身上。
 
 要把一個人設成 **Admin**，或者拿走 **Admin**，看 [更換管理員](change-admin.md)。
+
+
+角色指派、Union／Intersect、個人例外及資料夾／文件存取的步驟，請看 [權限：誰可以做甚麼](permissions.md)。敏感欄位的處理請看 [PII 與角色遮蔽](pii.md)。

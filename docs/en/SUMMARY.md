@@ -33,9 +33,11 @@
 * [Rules](rules.md)
 * [Audit](audit.md)
 * [People & access](people.md)
+* [Permissions: who can do what](permissions.md)
 * [Change the admin](change-admin.md)
 * [Security](security.md)
 * [Settings](settings.md)
+* [PII and role masking](pii.md)
 
 ## Retention
 

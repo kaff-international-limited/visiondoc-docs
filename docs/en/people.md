@@ -35,3 +35,6 @@ The table columns are **Name**, **Role**, **Title**, **Group**, **Named user**, 
 Two people work in sales, so the group shows **Sales · 2**. Type a new department in **New group name…** and click **New group**. Then tick it on each person. **Dept Head · 1** means one person already has that title. Add another title, click **Add title**, and tick it on the person who should have it.
 
 To give someone the **Admin** role, or to take it away, see [Change the admin](change-admin.md).
+
+
+For step-by-step role assignment, Union/Intersect, individual overrides and folder/file access, read [Permissions: who can do what](permissions.md). For sensitive values, read [PII and role masking](pii.md).
