@@ -17,7 +17,7 @@
     <span>文件在 Home 裡面，分成 Invoice、Quotation 和 Sales Order。</span>
   </a>
   <a class="card card-flow" href="start-workflow.html">
-    <strong>Workflow</strong>
+    <strong>工作流程</strong>
     <span>把文件送去審批，或者看有甚麼在等你。</span>
   </a>
   <a class="card card-import" href="folder-import.html">
@@ -40,7 +40,7 @@
 | 組 | 裡面有甚麼 |
 |---|---|
 | 總覽 | 圖表報告、文件庫、搜尋 |
-| Workflow | 有一個箭嘴。點開之後是 Start workflow、Inbox & outbox、Application folder、E-form designer、Workflow designer |
+| 工作流程（Workflow） | 有一個箭嘴。點開之後是 Start workflow（啟動流程）、Inbox & outbox（收件匣與寄件匣）、Application folder（申請資料夾）、E-form designer（電子表單設計器）、Workflow designer（流程設計器） |
 | 工作區 | 待簽署、規則、稽核記錄、人員與權限、安全性、設定 |
 
 <figure class="shot">
@@ -48,6 +48,6 @@
   <figcaption>選單。Workflow 是打開的。</figcaption>
 </figure>
 
-管理公司的人還看得到設定頁：E-form designer、Workflow designer、規則、人員與權限、設定。其他人只看到自己角色可以用的項目。
+管理公司的人還看得到設定頁：E-form designer（電子表單設計器）、Workflow designer（流程設計器）、規則、人員與權限、設定。其他人只看到自己角色可以用的項目。
 
 太陽圖示用來轉日夜。登入頁上的 **中 繁體中文** 把那一頁轉成中文。選單最下面的門是登出。**詢問** 在每一頁的右下角。

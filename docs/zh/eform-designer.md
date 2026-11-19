@@ -1,13 +1,13 @@
-<p class="kicker">工作</p>
+<p class="kicker">工作流程</p>
 
-# E-form designer
+# 電子表單設計器
 
 <figure class="watch">
   <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/17-eform-designer.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/17-eform-designer.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 
-**E-form designer** 用來做一張表單，然後分享出去。側欄上的名稱仍然是英文。頁面標題是 **表單設計器**。下面寫 **以即時預覽建立無程式碼表單**。不用寫程式。
+**E-form designer（電子表單設計器）** 用來做一張表單，然後分享出去。側欄上的名稱仍然是英文。頁面標題是 **表單設計器**。下面寫 **以即時預覽建立無程式碼表單**。不用寫程式。
 
 <figure class="shot">
   <img src="assets/eform-designer.png" alt="表單設計器，上面是空白的新表單，下面有兩張已存的表單">
