@@ -1,13 +1,13 @@
-<p class="kicker">工作</p>
+<p class="kicker">工作流程</p>
 
-# Inbox & outbox
+# 收件匣與寄件匣
 
 <figure class="watch">
   <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/15-inbox-and-outbox.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/15-inbox-and-outbox.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 
-**Inbox & outbox** 是已經在走的工作。標題是 **Workflow inbox & outbox**。下面寫 **Incoming approvals, submitted work, and decisions in one place.** 這些字在中文畫面仍然是英文。
+**Inbox & outbox（收件匣與寄件匣）** 是已經在走的工作。標題是 **Workflow inbox & outbox**。下面寫 **Incoming approvals, submitted work, and decisions in one place.** 這些字在中文畫面仍然是英文。
 
 <figure class="shot">
   <img src="assets/inbox.png" alt="收件箱選了 Waiting for you，清單是空的">
@@ -29,4 +29,4 @@
 
 搜尋框寫 **Search records, stages, or assignees**。**Type** 一開始是 **All types**。**Status** 一開始是 **All statuses**。**Created from** 和 **Created to** 是日期。**Export CSV** 下載你正在看的清單。
 
-經理打開 **Inbox & outbox**，留在 **Waiting for you**，批准那份報價。**Waiting for you** 回到 0。**Processed by you** 加 1。營業員打開同一頁，按 **Submitted by you**，就看到自己已經送出的三份。
+經理打開 **Inbox & outbox（收件匣與寄件匣）**，留在 **Waiting for you**，批准那份報價。**Waiting for you** 回到 0。**Processed by you** 加 1。營業員打開同一頁，按 **Submitted by you**，就看到自己已經送出的三份。

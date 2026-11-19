@@ -19,13 +19,13 @@
     * [上傳文件](drive-upload.md)
 * [搜尋](search.md)
 
-## Workflow
+## 工作流程
 
-* [Start workflow](start-workflow.md)
-* [Inbox & outbox](inbox.md)
-* [Application folder](application-folder.md)
-* [E-form designer](eform-designer.md)
-* [Workflow designer](workflow-designer.md)
+* [啟動流程](start-workflow.md)
+* [收件匣與寄件匣](inbox.md)
+* [申請資料夾](application-folder.md)
+* [電子表單設計器](eform-designer.md)
+* [流程設計器](workflow-designer.md)
 
 ## 工作區
 

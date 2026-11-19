@@ -16,6 +16,23 @@ These controls answer different questions:
 
 A permission grant does not enable a company module or appoint someone as a workflow approver. Being able to view a file also does not mean every sensitive value is visible.
 
+## Every user permission
+
+These are the ten permission IDs in the application catalog. A permission enables a capability, not access to every document or an otherwise disabled company module. For the Chinese names and worked examples, see the [Traditional Chinese permission reference](../zh/permissions.html).
+
+| Permission ID | Name | What it covers and what to check |
+|---|---|---|
+| `drive:read` | Read drive/documents | Read library listings, search results and document data, subject to applicable file access and masking. Does not itself grant writing, review or download. |
+| `drive:write` | Write/upload documents | Upload and library changes, including rename, move, delete and folder creation. This is not an upload-only permission. File controls, document state and retention can still restrict an operation. Online editing also requires this capability and a supported file, service and masking policy. |
+| `queue:manage` | Manage processing queue | A catalog entry reserved for queue management; the current version does not use it as a gate for every queue or reprocessing action. Revoking it alone does not stop reprocessing. Administrative reruns check `settings:edit`; single-document OCR reruns check `review`; upload checks `drive:write`. |
+| `review` | Review & approve | Document review decisions, related extraction corrections and single-document OCR reruns. The document state controls which decisions are available. Workflow approval separately depends on the assigned participant and current step. |
+| `settings:edit` | Edit settings (admin) | Company settings and protected administration such as people, roles, overrides, rules and masking. Granting it does not change the base role to Admin, enable company modules or grant platform operations access. Some functions require additional conditions. |
+| `watermark:lookup` | Watermark leak lookup | Look up watermark identifiers and their associated output records. It does not grant watermark policy editing or manual token issuance; those require settings permission. |
+| `assistant:use` | Use AI assistant | Assistant queries. Reading documents additionally needs `drive:read`; email drafting and workbench skills have separate capabilities. Does not remove masking. |
+| `assistant:email_draft` | AI email drafting | Draft email subject and body from accessible selections. Also requires `assistant:use` and `drive:read`; attachment downloads require download access. Produces a reviewable draft, not an automatically sent email or workflow notification. |
+| `workbench:run` | Run workbench skills | List/run available workbench skills and access their artifacts. A skill may additionally need document-read or assistant access. This is separate from ordinary assistant chat. |
+| `download:secure` | Secure download/print | Controlled file output, subject to the relevant download/print action, document state, watermark and masking policy. Does not grant an unmasked-original exception. |
+
 ## Start with the person's role
 
 The built-in defaults are below. A custom role, group/title role or individual override can change the effective result.
@@ -23,7 +40,7 @@ The built-in defaults are below. A custom role, group/title role or individual o
 | Capability | Uploader | Compliance / Reviewer | Admin |
 |---|---|---|---|
 | Browse and work with Drive files | Yes | Yes | Yes |
-| Manage the processing queue | Yes | Yes | Yes |
+| Processing queue capability (see limitation below) | Yes | Yes | Yes |
 | Use the assistant | Yes | Yes | Yes |
 | Secure download | Yes | Yes | Yes |
 | Review documents | No | Yes | Yes |
@@ -31,7 +48,7 @@ The built-in defaults are below. A custom role, group/title role or individual o
 | Draft email with the assistant | No | No | Yes |
 | Edit company settings | No | No | Yes |
 
-These are application capabilities, subject to the company's enabled features and applicable file controls. **Uploader is not a read-only role.** For a person who should only read and download, create a custom role with those permissions.
+These are application capabilities, subject to the company's enabled features and applicable file controls. **Uploader is not a read-only role.** For a person who should only read and download, create a custom role based on Uploader with those permissions, then check that memberships and overrides do not add writing. Do not use an Admin base role to test restrictions: Admin bypasses file ACL and role masking.
 
 1. Open **People & access** and find the person.
 2. Check their role, groups and titles. Group and title memberships can carry role permissions too.
@@ -56,6 +73,20 @@ Open **Custom Roles** from People & access or Settings. Give the role a name, ch
 For example, a group can add document review through **Union**. A separate **Intersect** role that contains only read and download permissions still removes review from the final result. Use **Info**, rather than the role's name, to confirm the outcome.
 
 ## Folder and document permissions
+
+| File action | Meaning and limits |
+|---|---|
+| `view` | View the file/folder; does not also grant editing, download or unmasked values. |
+| `edit` | Library changes such as rename/move and writing to a destination folder. It is separate from company settings permission. |
+| `copy` | The editor's copy action defaults to denied without an explicit allow for non-admins. It is not a universal gate on every copy path, the operating-system clipboard, screenshots or copies of already downloaded files. |
+| `delete` | Delete the target, subject to applicable document state, retention and hold restrictions. |
+| `print` | VisionDoc controlled print output; does not remotely control printing in external software. |
+| `download` | Obtain the document's download output; does not bypass role masking. |
+
+Online editing separately checks write capability, document state, editor availability and role masking. In the current version, do not rely on the file `edit` rule alone to disable online editing. To remove a person's writing capability, also check their effective `drive:write` permission and verify the operation they use.
+
+The file resolver uses the built-in role's ceiling: read for view, write for edit/delete, and secure download for copy/print/download. An operation can separately check effective user permissions; an Allowed file-rule result alone is not confirmation that all conditions for that operation are met.
+
 
 In **Drive**, select the folder or file and open **Permissions**. A document preview also offers a Permissions section when your account can manage it.
 

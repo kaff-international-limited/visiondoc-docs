@@ -1,13 +1,13 @@
-<p class="kicker">工作</p>
+<p class="kicker">工作流程</p>
 
-# Application folder
+# 申請資料夾
 
 <figure class="watch">
   <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/16-application-folder.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/16-application-folder.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 
-**Application folder** 是大家交過的申請，以及每一份的決定。這個名稱在中文畫面仍然是英文。標題下面寫 **Your submitted applications and completed decisions, across workflows.**
+**Application folder（申請資料夾）** 是大家交過的申請，以及每一份的決定。這個名稱在中文畫面仍然是英文。標題下面寫 **Your submitted applications and completed decisions, across workflows.**
 
 <figure class="shot">
   <img src="assets/applications.png" alt="Application folder 的篩選列">

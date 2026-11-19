@@ -1,13 +1,13 @@
-<p class="kicker">工作</p>
+<p class="kicker">工作流程</p>
 
-# Workflow designer
+# 流程設計器
 
 <figure class="watch">
   <video controls preload="none" playsinline poster="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/posters/18-workflow-designer.jpg?v=20261116" src="https://visiondoc-tutorials.s3.ap-southeast-1.amazonaws.com/videos/18-workflow-designer.mp4?v=20261116"></video>
   <figcaption>看短片。這段短片和字幕都是英文。</figcaption>
 </figure>
 
-**Workflow designer** 是管理員設定審批路徑的地方。側欄上的名稱仍然是英文。頁面標題是 **審批流程**。下面寫 **可設定的多步驟、依角色路由的審批定義**。
+**Workflow designer（流程設計器）** 是管理員設定審批路徑的地方。側欄上的名稱仍然是英文。頁面標題是 **審批流程**。下面寫 **可設定的多步驟、依角色路由的審批定義**。
 
 <figure class="shot">
   <img src="assets/workflow-designer.png" alt="左邊是新增流程，右邊有四個已存的流程">
@@ -42,7 +42,7 @@
 
 角色不是步驟名稱。**Department manager review** 下面仍然可以寫 **compliance**。名稱是標籤。角色是誰可以批。這些角色在 [人員與權限](people.md) 設在每一個人身上。
 
-已存的流程不能在這張清單裡直接改。要改，就做一個新流程，用自己的鍵。**Delete** 拿掉它，[Start workflow](start-workflow.md) 就不能再選它。
+已存的流程不能在這張清單裡直接改。要改，就做一個新流程，用自己的鍵。**Delete** 拿掉它，[啟動流程（Start workflow）](start-workflow.md) 就不能再選它。
 
 ## 已存的流程
 
@@ -78,7 +78,7 @@
 | 2 | HR / Operation Manager | compliance |
 | 3 | General Manager / Operation Manager | admin |
 
-前兩步都是 compliance 角色。步驟名稱把牠們分開。最後一步是 admin 角色。
+前兩步都是 compliance 角色。步驟名稱把它們分開。最後一步是 admin 角色。
 
 ### Payment request (team lead → HR/Ops → Ops/HR → Finance → GM)
 
@@ -94,4 +94,4 @@
 
 前三步是 compliance 角色。最後兩步是 admin 角色。
 
-一份報價先給經理，再給客戶簽。顯示名稱 **報價批准**。鍵 `quotation_approval_v1`。第 1 步 **經理批准**，類型 **內部審批**，角色 **admin**。按 **新增步驟**。第 2 步 **客戶簽署**，類型 **外部簽署**，填客戶的電郵。按 **建立流程**。之後在 [Start workflow](start-workflow.md) 可以選這個流程，附上 **Quotation** 裡的 PDF。
+一份報價先給經理，再給客戶簽。顯示名稱 **報價批准**。鍵 `quotation_approval_v1`。第 1 步 **經理批准**，類型 **內部審批**，角色 **admin**。按 **新增步驟**。第 2 步 **客戶簽署**，類型 **外部簽署**，填客戶的電郵。按 **建立流程**。之後在 [啟動流程（Start workflow）](start-workflow.md) 可以選這個流程，附上 **Quotation** 裡的 PDF。
