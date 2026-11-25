@@ -37,6 +37,7 @@
 * [更換管理員](change-admin.md)
 * [安全性](security.md)
 * [設定](settings.md)
+* [浮水印教學與樣本](watermark.md)
 * [PII 與角色遮蔽](pii.md)
 
 ## 記錄保留
