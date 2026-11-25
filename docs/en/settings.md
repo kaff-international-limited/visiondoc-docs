@@ -28,6 +28,8 @@
 
 The company wants Chinese as the default language. Open **General** and set the language there. To put a running number on each new file, open **Records** and turn that on. Until then the card stays off, which is what the picture shows. **Notifications** is where you choose who is told when a file needs a person to look at it.
 
+For the tested watermark steps and differences between output routes, see [Watermark: video, steps and sample PDFs](watermark.md).
+
 ## Change a setting
 
 1. Open **Settings** and choose the relevant card or section.

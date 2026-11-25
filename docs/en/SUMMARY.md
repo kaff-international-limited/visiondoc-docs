@@ -37,6 +37,7 @@
 * [Change the admin](change-admin.md)
 * [Security](security.md)
 * [Settings](settings.md)
+* [Watermark tutorial and samples](watermark.md)
 * [PII and role masking](pii.md)
 
 ## Retention

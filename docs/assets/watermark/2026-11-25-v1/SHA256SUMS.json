@@ -1,0 +1,19 @@
+{
+  "01-original.pdf": "6014c6596d23d0cd954514241925053599ef992ef9ccea39f65839fd9f08d9a8",
+  "02-hidden-token.pdf": "dd6f8847b8c2cc16add036151457e014fca05e272581bd9305a66f0a33043370",
+  "03-print-footer.pdf": "c307fef9e385c930839adec6201ceb1862b4d9e3f4a5c85c91e9e9a19f9353e7",
+  "04-visible-watermark.pdf": "a38b1268580716f7f4e5cf84fd8c5ddda143e769f5d925a51a0f0b6b7f9ef26d",
+  "README.txt": "50facbecfe685ce80fbb24df7e12f6dfa145c2cf914f0ec59ef29bfaf1f9a03b",
+  "advanced.png": "a503550b47a257eae2991a5c28a71656c506e3b3f3165c1cca1533558e5ffcc2",
+  "api-example.js": "5cd59db761c0cb0d790055c2d06ad813b0528b0d4b0129b205bb40a77ca1c2ac",
+  "captions.zh-Hant.srt": "6ee3e70110493eb37d31ed3e953998cb5b2464aaf32d413378a0125cc11912d1",
+  "captions.zh-Hant.vtt": "310c8e603cecd2786b9ad44b6502f675a1ecd87c7d68502d7be3477198a332a6",
+  "guide.zh-Hant.html": "eff3b71156efcea37a153aa67025db65f78575f3aa387d92ad11c87a2e6725c8",
+  "guide.zh-Hant.pdf": "402d80c8266b6e0d9c79ca8715b0c7f973f904db80f374e4c2e947a6a147c63c",
+  "lookup.png": "2e7b1472f5fa07cc33f7c6ac77d24fb409256abb3cf1ea972ec679c68e374dad",
+  "original-preview.png": "ab32694be08a62d5ee66febe3db1d30814f3dc6226602e49f673415cae5fcec6",
+  "poster.png": "aa6a07f78f59610c8f0bf3ee8cc55eb1e591a9c1f4d50fad69b5b47654e2ce7e",
+  "settings.png": "0544ba14db9a079eb5c1d8a1e63c7f7cacc16113b1935e3c92fa496ef3ddd00f",
+  "tutorial.mp4": "c2334b30a675daad7f3fd60faf981d485fd0322d74595f1b83e0e353e56f49c3",
+  "visible-preview.png": "8e1f5fbef00bf227ee4be9717131ecec9ad8319a2597dcc2515405a80ae24714"
+}
